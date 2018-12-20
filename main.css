@@ -1,0 +1,34 @@
+html,body{
+	height: 100%;
+  margin-right:
+}
+
+body{
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
+
+h1{
+	font-size: 3rem;
+	font-weight: lighter;
+}
+
+h2{
+	font-size: 2rem;
+}
+
+h1, h2{
+  margin-bottom:0
+}
+
+.frontpage-header{
+  text-align:center;
+}
+
+.frontpage-header p{
+  margin-top:0;
+}
+
+.main{
+  max-width: 1306px;
+	margin:	0 9em;
+}
