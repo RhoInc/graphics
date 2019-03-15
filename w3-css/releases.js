@@ -1,23 +1,41 @@
 fetch('https://api.github.com/users/RhoInc/repos')
     .then(response => response.json())
     .then(json => {
-        buildReleaseList(json, '.releases');
+        buildReleaseList(json, '.release-list');
     });
 
-function buildReleaseList(data, element, nReleases = 3) {
+function buildReleaseList(data, element, nReleases = 1) {
     const selection = d3.select(element);
-    const list = selection
-        .append('ul')
-        .attr('class', 'releases');
+    const converter = new showdown.Converter();
     const latestReleases = data
-        //.sort((a,b) => new Date(b.updated_at).getTime() - new Date(a.updated_at).getTime())
-        .slice(0,nReleases)
         .map(repo => fetch(repo.releases_url.replace('{/id}', '/latest')));
     Promise.all(latestReleases)
         .then(responses => {
-            return Promise.all(responses.map(response => response.json()));
+            return Promise.all(
+                responses
+                    .filter(response => reponse.status === 200)
+                    .map(response => response.json())
+            );
         })
         .then(json => {
-            console.log(json);
+            const data = json
+                .map(d => {
+                    d.date = new Date(d.created_at);
+                    d.repo = d.url.split('/')[5];
+                    d.html = converter.makeHtml(d.body);
+                    return d;
+                })
+                .sort((a,b) => a.date.getTime() - b.date.getTime())
+            const releases = selection
+                .selectAll('div.release')
+                    .data(data)
+                    .enter()
+                .append('div')
+                .classed('release', true);
+            releases.each(function(d) {
+                const release = d3.select(this);
+                release.append('h3').text(d.repo);
+                release.append('p').html(d.html);
+            });
         });
 }
