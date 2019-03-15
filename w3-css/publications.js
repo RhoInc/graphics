@@ -1,25 +1,8 @@
-const pubPromise = new Promise((resolve, reject) => {
-    const xhr = new XMLHttpRequest();
-    xhr.ontimeout = function() {
-        console.error(`The request for ${url} timed out.`);
-    };
-    xhr.onload = function() {
-        if (xhr.readyState === 4) {
-            if (xhr.status === 200) {
-                resolve(xhr.response);
-            }
-        } else{
-            reject(xhr.statusText);
-        }
-    };
-    xhr.open('GET', 'https://raw.githubusercontent.com/RhoInc/publication-library/master/publicationMetadata.json', true);
-    xhr.send(null);
-});
-
-pubPromise.then(value => {
-    const pubs = JSON.parse(value);
-    buildPubList(pubs, '.publications-list');
-});
+fetch('https://raw.githubusercontent.com/RhoInc/publication-library/master/publicationMetadata.json')
+    .then(response => response.json())
+    .then(json => {
+        buildPubList(json, '.publications-list');
+    });
 
 function buildPubList(meta, parentElement) {
   var parentDiv = d3.select(parentElement);
