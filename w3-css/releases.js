@@ -13,7 +13,7 @@ function buildReleaseList(data, element, nReleases = 1) {
         .then(responses => {
             return Promise.all(
                 responses
-                    .filter(response => reponse.status === 200)
+                    .filter(response => response.status === 200)
                     .map(response => response.json())
             );
         })
