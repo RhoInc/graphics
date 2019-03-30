@@ -121,24 +121,13 @@ ul.pubs li.pub .pub-wrap ul.tags li a.github::before{
 }
 
 /* Latest Releases */
-.releases {
+.releases .hidden{
+  display:none;
 }
-.release {
-    width: 100%;
-    display: inline-block;
+.releases h5{
+  margin-bottom:0;
+  font-weight: bold;
 }
-.release__repo {
-    position: relative;
-    font-weight: bold;
-}
-.release__date {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    font-size: 16px;
-    font-weight: normal;
-}
-.release__body {
-    width: 100%;
-    display: inline-block;
+.release__body p{
+  margin-top:0;
 }
