@@ -38,8 +38,13 @@ fetch('https://api.github.com/repos/RhoInc/blog/contents/_posts')
     .then(response => response.text())
     .then(text => {
         const html = md2html(text);
-        const blogPost = d3.select('.blog-post');
-        blogPost.html(html);
+        const blogPost = d3.select('.blog-post')
+        blogPost
+        .append("div")
+        .style("background","white")
+        .style("border","1px solid #999")
+        .style("padding","0.5em")
+        .html(html);
         blogPost
             .append('p')
             .html('<a target = "_blank" href = "https://rhoinc.github.io/blog/">View all blog posts</a>');
@@ -51,16 +56,16 @@ fetch('https://api.github.com/repos/RhoInc/blog/contents/_posts')
 //title: Embracing Open Source as Good Science
 //author: Ryan Bailey
 //---
-//<img src="{{ site.baseurl }}/images/open.png" align="right" /> Sharing.  It's one of the earliest lessons your parents try to teach you - don't hoard, take turns, be generous.  Sharing is a great lesson for life.  Sharing is also a driving force behind scientific progress and software development.  Science and software rely on communal principles of transparency, knowledge exchange, reproducibility, and mutual benefit.  
+//<img src="{{ site.baseurl }}/images/open.png" align="right" /> Sharing.  It's one of the earliest lessons your parents try to teach you - don't hoard, take turns, be generous.  Sharing is a great lesson for life.  Sharing is also a driving force behind scientific progress and software development.  Science and software rely on communal principles of transparency, knowledge exchange, reproducibility, and mutual benefit.
 //
 //The practice of open sharing or open sourcing has advanced these fields in several ways:
 //* [promoting better science](https://opensource.com/education/11/10/default-open-scientific-method) through transparency, peer review, and knowledge promotion
 //* increasing [community engagement](https://opensource.com/open-organization/16/5/appreciating-full-power-open) by inviting scrutiny, feedback, mutual sharing, and collaboration
 //* aligning with [government policy](https://open.usa.gov/) on openness and visibility in publicly-funded work
 //
-//We also feel strongly that the impetus for open sharing is reflected in [Rho's core values](http://www.rhoworld.com/rho/about/our-values) - especially team culture, innovation, integrity, and quality.  Given our values, and given our role in conducting science and creating software, we've been exploring ways that we can be more active in the so-called "sharing economy" when it comes to our work.  
+//We also feel strongly that the impetus for open sharing is reflected in [Rho's core values](http://www.rhoworld.com/rho/about/our-values) - especially team culture, innovation, integrity, and quality.  Given our values, and given our role in conducting science and creating software, we've been exploring ways that we can be more active in the so-called "sharing economy" when it comes to our work.
 //
-//One of the ways we have been fulfilling this goal is to release our statistical and data visualization tools as freely-accessible, open source libraries on GitHub.  GitHub is one of the world's largest open source platforms for virtual collaboration and code sharing.  GitHub allows users to actively work on their code online, from anywhere, with the opportunity to share and collaborate with other users.  As a result, we not only share our code for public use, we also invite feedback, improvements, and expansions of our tools for other uses. 
+//One of the ways we have been fulfilling this goal is to release our statistical and data visualization tools as freely-accessible, open source libraries on GitHub.  GitHub is one of the world's largest open source platforms for virtual collaboration and code sharing.  GitHub allows users to actively work on their code online, from anywhere, with the opportunity to share and collaborate with other users.  As a result, we not only share our code for public use, we also invite feedback, improvements, and expansions of our tools for other uses.
 //
 //We released our first open source tool - the openFDA Adverse Event Explorer - in June 2015.  Now we have 26 team members working on 28 public projects, and that number has been growing rapidly.  The libraries and tools we've been sharing have a variety of uses: monitor safety data, track project metrics, visualize data, summarize every data variable for a project, aid with analysis, optimize SAS tools, and explore population data.
 //
