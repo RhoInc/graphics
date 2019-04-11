@@ -40,6 +40,9 @@ header{
 .blog-post > h3 {
     width: 100%;
 }
+.blog-post img {
+    max-width: 100%;
+}
 
 /* Latest Publications */
 
