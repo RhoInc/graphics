@@ -1,0 +1,42 @@
+{
+  "name": "graphics",
+  "version": "1.0.0",
+  "description": "the Rho Graphics website",
+  "module": "./js/index.js",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm audit fix && npm run bundle && npm run format",
+    "bundle": "rollup -c",
+    "format": "npm run format-src && npm run format-bundle",
+    "format-src": "prettier --print-width=100 --tab-width=4 --single-quote --write \"./js/**/*.js\"",
+    "format-bundle": "prettier --print-width=100 --tab-width=4 --single-quote --write ./index.js",
+    "test-page": "start chrome ./test-page/index.html && start firefox ./test-page/index.html && start iexplore file://%CD%/test-page/index.html",
+    "watch": "rollup -c -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RhoInc/graphics.git"
+  },
+  "keywords": [
+    "graphics",
+    "rho",
+    "data",
+    "visualization"
+  ],
+  "author": "Rho, Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RhoInc/graphics/issues"
+  },
+  "homepage": "https://github.com/RhoInc/graphics#readme",
+  "devDependencies": {
+    "babel-plugin-external-helpers": "^6.22.0",
+    "babel-preset-env": "^1.7.0",
+    "prettier": "^1.16.4",
+    "rollup": "^1.10.0",
+    "rollup-plugin-babel": "^4.3.2"
+  },
+  "dependencies": {
+    "d3": "^3.5.17"
+  }
+}
