@@ -51,7 +51,7 @@ function buildPubList(meta, parentElement) {
     .append("a")
     .attr(
       "href",
-      d => (d.href.indexOf("http") > -1 ? d.href : "./pubs/" + d.href)
+      d => (d.href.indexOf("http") > -1 ? d.href : 'https://rhoinc.github.io/publication-library/pubs/' + d.href)
     )
     .attr("class", d => d.type)
     .html(function(d) {
