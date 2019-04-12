@@ -1,9 +1,9 @@
 import 'promise-polyfill/src/polyfill';
 import 'whatwg-fetch';
-import publications from './publications';
-import releases from './releases';
-import blog from './blog';
+import addPublications from './addPublications';
+import addReleases from './addReleases';
+import addBlogPosts from './addBlogPosts';
 
-publications();
-releases();
-blog();
+addPublications();
+addReleases();
+addBlogPosts();
