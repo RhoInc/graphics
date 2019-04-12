@@ -1,6 +1,6 @@
 {
   "name": "graphics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "the Rho Graphics website",
   "module": "./js/index.js",
   "main": "index.js",
