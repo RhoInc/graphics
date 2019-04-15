@@ -7,6 +7,7 @@
   "scripts": {
     "build": "npm audit fix && npm run get-all && npm run bundle && npm run format",
     "bundle": "rollup -c",
+    "test": "echo Testing in Travis. Whoo.",
     "format": "npm run format-scripts && npm run format-js && npm run format-bundle",
     "format-js": "prettier --print-width=100 --tab-width=4 --single-quote --write \"./js/**/*.js\"",
     "format-bundle": "prettier --print-width=100 --tab-width=4 --single-quote --write ./index.js",
