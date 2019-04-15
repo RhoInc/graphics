@@ -870,7 +870,7 @@
 
     function publications() {
         fetch(
-            'https://raw.githubusercontent.com/RhoInc/publication-library/master/publicationMetadata.json'
+            'https://raw.githubusercontent.com/RhoInc/publication-library/master/data/publicationMetadata.json'
         )
             .then(function(response) {
                 return response.json();
