@@ -12,4 +12,3 @@ deploy:
   on:
     branch:
       - master
-      - travis2
