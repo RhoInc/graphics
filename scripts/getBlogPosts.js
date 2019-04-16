@@ -6,7 +6,7 @@ const fetch = require('node-fetch');
 
 exports.getBlogPosts = function(headers) {
     //Fetch list of blog posts.
-    fetch('https://api.github.com/repos/RhoInc/blog/contents/_posts') , { headers } )
+    fetch('https://api.github.com/repos/RhoInc/blog/contents/_posts' , { headers } )
         .then(response => response.json())
         .then(response => {
             //Save blog post metadata.
