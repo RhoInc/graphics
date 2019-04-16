@@ -8,9 +8,9 @@ exports.getBlogPosts = function(headers) {
     //Fetch list of blog posts.
     fetch('https://api.github.com/repos/RhoInc/blog/contents/_posts') //, { headers } )
         .then(response => response.json())
-        .then(json => {
+        .then(response => {
             //Save blog post metadata.
-            fs.writeFile('./data/blogPosts.json', JSON.stringify(json, null, 4), error => {
+            fs.writeFile('./data/blogPosts.json', JSON.stringify(response, null, 4), error => {
                 if (error) {
                     console.log(error);
                 } else {
@@ -19,7 +19,7 @@ exports.getBlogPosts = function(headers) {
             });
 
             //Fetch contents of each blog post.
-            return Promise.all(json.map(blogPost => fetch(blogPost.download_url)));
+            return Promise.all(response.map(blogPost => fetch(blogPost.download_url)));
         })
         .then(responses => Promise.all(responses.map(response => response.text())))
         .then(text => {

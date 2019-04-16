@@ -4409,7 +4409,47 @@
             "body": "Initial public release of the Population Explorer, a simple javascript library that facilitates real-time exploration of data sets using a simple user interface. The tool was designed to empower researchers to explore their medical research data in real time. \n"
         }
     ],
-    [],
+    [
+        {
+            "url": "https://api.github.com/repos/RhoInc/publication-library/releases/16784209",
+            "assets_url": "https://api.github.com/repos/RhoInc/publication-library/releases/16784209/assets",
+            "upload_url": "https://uploads.github.com/repos/RhoInc/publication-library/releases/16784209/assets{?name,label}",
+            "html_url": "https://github.com/RhoInc/publication-library/releases/tag/v1.0.0",
+            "id": 16784209,
+            "node_id": "MDc6UmVsZWFzZTE2Nzg0MjA5",
+            "tag_name": "v1.0.0",
+            "target_commitish": "master",
+            "name": "v1.0.0",
+            "draft": false,
+            "author": {
+                "login": "jwildfire",
+                "id": 3680095,
+                "node_id": "MDQ6VXNlcjM2ODAwOTU=",
+                "avatar_url": "https://avatars1.githubusercontent.com/u/3680095?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/jwildfire",
+                "html_url": "https://github.com/jwildfire",
+                "followers_url": "https://api.github.com/users/jwildfire/followers",
+                "following_url": "https://api.github.com/users/jwildfire/following{/other_user}",
+                "gists_url": "https://api.github.com/users/jwildfire/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/jwildfire/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/jwildfire/subscriptions",
+                "organizations_url": "https://api.github.com/users/jwildfire/orgs",
+                "repos_url": "https://api.github.com/users/jwildfire/repos",
+                "events_url": "https://api.github.com/users/jwildfire/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/jwildfire/received_events",
+                "type": "User",
+                "site_admin": false
+            },
+            "prerelease": false,
+            "created_at": "2019-04-15T18:45:39Z",
+            "published_at": "2019-04-16T04:51:12Z",
+            "assets": [],
+            "tarball_url": "https://api.github.com/repos/RhoInc/publication-library/tarball/v1.0.0",
+            "zipball_url": "https://api.github.com/repos/RhoInc/publication-library/zipball/v1.0.0",
+            "body": "First official release"
+        }
+    ],
     [
         {
             "url": "https://api.github.com/repos/RhoInc/query-overview/releases/15251151",
