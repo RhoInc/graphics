@@ -5,24 +5,33 @@ global.Headers = fetch.Headers;
 const getRepos = require('./getRepos').getRepos;
 const getBlogPosts = require('./getBlogPosts').getBlogPosts;
 
-read({ prompt: 'Username: ' }, function(error, username) {
-    if (error) {
-        console.log('Error: ' + error);
-        return;
-    }
+const pw = process.argv[2];
+const headers = new Headers();
 
-    read({ prompt: 'Password: ', silent: true }, function(error, password) {
-        if (error) {
-            console.log('Error: ' + error);
-            return;
-        }
+if(pw){
+  headers.append('Authorization', 'Basic ' + base64.encode("jwildfire@gmail.com" + ':' + pw));
+  getRepos(headers); // calls getReleases
+  getBlogPosts(headers);
+}else{
+  read({ prompt: 'Username: ' }, function(error, username) {
+      if (error) {
+          console.log('Error: ' + error);
+          return;
+      }
 
-        //Define fetch headers.
-        const headers = new Headers();
-        headers.append('Authorization', 'Basic ' + base64.encode(username + ':' + password));
+      read({ prompt: 'Password: ', silent: true }, function(error, password) {
+          if (error) {
+              console.log('Error: ' + error);
+              return;
+          }
 
-        //Download data from GitHub.
-        getRepos(headers); // calls getReleases
-        getBlogPosts(headers);
-    });
-});
+          //Define fetch headers.
+
+          headers.append('Authorization', 'Basic ' + base64.encode(username + ':' + password));
+
+          //Download data from GitHub.
+          getRepos(headers); // calls getReleases
+          getBlogPosts(headers);
+      });
+  });
+}

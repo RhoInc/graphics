@@ -12,6 +12,7 @@
     "format-js": "prettier --print-width=100 --tab-width=4 --single-quote --write \"./js/**/*.js\"",
     "format-bundle": "prettier --print-width=100 --tab-width=4 --single-quote --write ./index.js",
     "format-scripts": "prettier --print-width=100 --tab-width=4 --single-quote --write \"./scripts/**/*.js\"",
+    "get-all-bot": "node ./scripts/getAll.js $GITHUB_TOKEN",
     "get-all": "node ./scripts/getAll.js",
     "get-blog-posts": "node ./scripts/getBlogPosts.js",
     "get-releases": "node ./scripts/getReleases.js",
