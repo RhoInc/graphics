@@ -963,7 +963,10 @@
             })
             .then(function(json) {
                 //Capture latest releases.
-                var latestReleases = json
+                var latestReleases = Object.keys(json)
+                    .map(function(key) {
+                        return json[key];
+                    })
                     .filter(function(releases) {
                         return releases.length > 0;
                     })

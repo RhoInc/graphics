@@ -1,5 +1,5 @@
-[
-    [
+{
+    "ae-timelines": [
         {
             "url": "https://api.github.com/repos/RhoInc/ae-timelines/releases/17088865",
             "assets_url": "https://api.github.com/repos/RhoInc/ae-timelines/releases/17088865/assets",
@@ -586,7 +586,7 @@
             "body": "This is the initial release of the AE Timelines, an interactive timeline featuring adverse events plotted by participant over a period of time.\n"
         }
     ],
-    [
+    "aeexplorer": [
         {
             "url": "https://api.github.com/repos/RhoInc/aeexplorer/releases/16583043",
             "assets_url": "https://api.github.com/repos/RhoInc/aeexplorer/releases/16583043/assets",
@@ -1329,7 +1329,7 @@
             "body": "Initial release of the AE Explorer code to be hosted on the <a href=\"http://graphics.rhoworld.com\">Rho Graphics website</a>\n"
         }
     ],
-    [
+    "aeplot": [
         {
             "url": "https://api.github.com/repos/RhoInc/aeplot/releases/2862910",
             "assets_url": "https://api.github.com/repos/RhoInc/aeplot/releases/2862910/assets",
@@ -1370,7 +1370,7 @@
             "body": "Initial public release of the library with basic plotting functionality and documention. \n"
         }
     ],
-    [
+    "asthma-control-graphic": [
         {
             "url": "https://api.github.com/repos/RhoInc/asthma-control-graphic/releases/8606027",
             "assets_url": "https://api.github.com/repos/RhoInc/asthma-control-graphic/releases/8606027/assets",
@@ -1450,8 +1450,8 @@
             "body": "First production release. "
         }
     ],
-    [],
-    [
+    "blog": [],
+    "CASI_MID": [
         {
             "url": "https://api.github.com/repos/RhoInc/CASI_MID/releases/5612585",
             "assets_url": "https://api.github.com/repos/RhoInc/CASI_MID/releases/5612585/assets",
@@ -1492,7 +1492,7 @@
             "body": "This is the initial public release for this repository, which contains the supplemental material for the Composite Asthma Severity Index (CASI) Letter to the Editor, entitled Minimally Important Differences and Risk Levels for the Composite Asthma Severity Index.\n"
         }
     ],
-    [
+    "CAT": [
         {
             "url": "https://api.github.com/repos/RhoInc/CAT/releases/15547929",
             "assets_url": "https://api.github.com/repos/RhoInc/CAT/releases/15547929/assets",
@@ -2001,7 +2001,7 @@
             "body": "Initial working prototype."
         }
     ],
-    [
+    "clinical-timelines": [
         {
             "url": "https://api.github.com/repos/RhoInc/clinical-timelines/releases/16412186",
             "assets_url": "https://api.github.com/repos/RhoInc/clinical-timelines/releases/16412186/assets",
@@ -2549,7 +2549,7 @@
             "body": "The first release of the clinical-timelines library presents clinical trial timelines vertically by participant and horizontally by study day.  The timelines visualize single- and multi-day events, offset those events that overlap, and allow the user to drill down to individual participants.  The participant-level view breaks events down by event type in small multiples and also presents a listing of the participant's data."
         }
     ],
-    [
+    "CRANsearcher": [
         {
             "url": "https://api.github.com/repos/RhoInc/CRANsearcher/releases/7966054",
             "assets_url": "https://api.github.com/repos/RhoInc/CRANsearcher/releases/7966054/assets",
@@ -2863,7 +2863,7 @@
             "body": "Initial release for CRANsearcher: an R-studio add-in.  Features include:\r\n- Real-time exploration of the CRAN package database\r\n- Search package name, title, and description based on multiple keywords \r\n- Explore search results within a sortable table\r\n- Link to external websites providing package metadata, specifically www.rpackages.io and rdrr.io\r\n- Install package(s) with the click of a button\r\n"
         }
     ],
-    [
+    "crf-heat-map": [
         {
             "url": "https://api.github.com/repos/RhoInc/crf-heat-map/releases/16507695",
             "assets_url": "https://api.github.com/repos/RhoInc/crf-heat-map/releases/16507695/assets",
@@ -3216,10 +3216,10 @@
             "body": "CRF Heat Map v1.0.1 mainly fixes the [test page](https://rawgit.com/RhoInc/crf-heat-map/master/build/test-page/index.html) and updates the [README](https://github.com/RhoInc/crf-heat-map/blob/master/README.md).  View the full list of issues [here](https://github.com/RhoInc/crf-heat-map/milestone/3?closed=1)."
         }
     ],
-    [],
-    [],
-    [],
-    [
+    "dashboard-charts": [],
+    "dashboard-framework": [],
+    "dat2stat": [],
+    "data-library": [
         {
             "url": "https://api.github.com/repos/RhoInc/data-library/releases/16840434",
             "assets_url": "https://api.github.com/repos/RhoInc/data-library/releases/16840434/assets",
@@ -3299,7 +3299,7 @@
             "body": "The Data Library is a hub for public-use datasets used in clinical trial data visualizations.  Check out the GitHub Pages website [here](https://rhoinc.github.io/data-library/) to learn more."
         }
     ],
-    [
+    "datadigest": [
         {
             "url": "https://api.github.com/repos/RhoInc/datadigest/releases/12675018",
             "assets_url": "https://api.github.com/repos/RhoInc/datadigest/releases/12675018/assets",
@@ -3613,7 +3613,7 @@
             "body": "Initial release for codebook: an interface to Rho's web-codebook  Features include:\r\n- create an interactive codebook within R environment\r\n- explore codebook in RStudio viewer or embed in Rmarkdown or HTML document\r\n- Shiny app interface to codebook,:\r\n   - Explore data already loaded in R environment\r\n   - Upload a new datafile\r\n   - Export interactive or static codebook to an html document\r\n- Shiny app interface can be accessed through \"Addins\" menu within RStudio\r\n"
         }
     ],
-    [
+    "GAMMapp": [
         {
             "url": "https://api.github.com/repos/RhoInc/GAMMapp/releases/5999351",
             "assets_url": "https://api.github.com/repos/RhoInc/GAMMapp/releases/5999351/assets",
@@ -3654,8 +3654,8 @@
             "body": "This is the initial release of the GAMM Shiny app.  The GitHub repo contains code for the app, which can be run locally or visited at the site hosted by shinyapps.io.  The main purpose of the app is to allow exploration of non-linear patterns in longitudinal data by providing an interactive interface for the mgcv package in R.  However the user can also explore both non-linear and linear trends, and use the app with cross-sectional or longitudinal data. "
         }
     ],
-    [],
-    [
+    "graphics": [],
+    "interactive-sankey": [
         {
             "url": "https://api.github.com/repos/RhoInc/interactive-sankey/releases/4704088",
             "assets_url": "https://api.github.com/repos/RhoInc/interactive-sankey/releases/4704088/assets",
@@ -3696,7 +3696,7 @@
             "body": "All basic functionality is present:\r\n- clickable bars\r\n- bar annotations\r\n- bar and link tooltips\r\n"
         }
     ],
-    [
+    "JACI-BioinformaticsGraphics": [
         {
             "url": "https://api.github.com/repos/RhoInc/JACI-BioinformaticsGraphics/releases/7017771",
             "assets_url": "https://api.github.com/repos/RhoInc/JACI-BioinformaticsGraphics/releases/7017771/assets",
@@ -3815,7 +3815,7 @@
             "body": "Reproducible graphics created in conjunction with \"Graphic Depiction of Bioinformatics Graphics\" manuscript. This release coincides with the first round of responses to reviewer comments. \r\n"
         }
     ],
-    [
+    "open-source-handbook": [
         {
             "url": "https://api.github.com/repos/RhoInc/open-source-handbook/releases/5457394",
             "assets_url": "https://api.github.com/repos/RhoInc/open-source-handbook/releases/5457394/assets",
@@ -3895,8 +3895,8 @@
             "body": "This is the initial public release for the Open Source Handbook. The handbook includes information on open source processes at Rho, a developer guidance, and relevant resources for future projects.\n"
         }
     ],
-    [],
-    [
+    "OpenFDAExplorer": [],
+    "paneled-outlier-explorer": [
         {
             "url": "https://api.github.com/repos/RhoInc/paneled-outlier-explorer/releases/17399427",
             "assets_url": "https://api.github.com/repos/RhoInc/paneled-outlier-explorer/releases/17399427/assets",
@@ -4288,7 +4288,7 @@
             "body": "This first release of the paneled-outlier-explorer allows users to generate a line chart for each measure or outcome in their data plotted over time.  Points and lines in each chart can be brushed to highlight the corresponding points and/or lines in that chart and every other chart.  Finally users can display and remove each chart as needed."
         }
     ],
-    [
+    "participant-visit-listing": [
         {
             "url": "https://api.github.com/repos/RhoInc/participant-visit-listing/releases/16486381",
             "assets_url": "https://api.github.com/repos/RhoInc/participant-visit-listing/releases/16486381/assets",
@@ -4446,7 +4446,7 @@
             "body": "The Participant Visit Listing is an interactive matrix of participant visit compliance in clinical trials, with one participant per row and one column per visit."
         }
     ],
-    [
+    "PopulationExplorer": [
         {
             "url": "https://api.github.com/repos/RhoInc/PopulationExplorer/releases/16331101",
             "assets_url": "https://api.github.com/repos/RhoInc/PopulationExplorer/releases/16331101/assets",
@@ -4526,7 +4526,7 @@
             "body": "Initial public release of the Population Explorer, a simple javascript library that facilitates real-time exploration of data sets using a simple user interface. The tool was designed to empower researchers to explore their medical research data in real time. \n"
         }
     ],
-    [
+    "publication-library": [
         {
             "url": "https://api.github.com/repos/RhoInc/publication-library/releases/16784209",
             "assets_url": "https://api.github.com/repos/RhoInc/publication-library/releases/16784209/assets",
@@ -4567,7 +4567,7 @@
             "body": "First official release"
         }
     ],
-    [
+    "query-overview": [
         {
             "url": "https://api.github.com/repos/RhoInc/query-overview/releases/16981513",
             "assets_url": "https://api.github.com/repos/RhoInc/query-overview/releases/16981513/assets",
@@ -5154,9 +5154,9 @@
             "body": "Initial release, with basic functionality available. \n"
         }
     ],
-    [],
-    [],
-    [
+    "r-library": [],
+    "RStudioConf2019-ePoster": [],
+    "safety-explorer-suite": [
         {
             "url": "https://api.github.com/repos/RhoInc/safety-explorer-suite/releases/17143506",
             "assets_url": "https://api.github.com/repos/RhoInc/safety-explorer-suite/releases/17143506/assets",
@@ -5704,7 +5704,7 @@
             "body": "Initial Release with basic functionality and documentation"
         }
     ],
-    [
+    "safety-histogram": [
         {
             "url": "https://api.github.com/repos/RhoInc/safety-histogram/releases/16928762",
             "assets_url": "https://api.github.com/repos/RhoInc/safety-histogram/releases/16928762/assets",
@@ -6291,7 +6291,7 @@
             "body": "This is the initial release of the Test Results Histogram. This interactive tool features a histogram that allows users to examine all of the data for a given lab or vital sign.\n"
         }
     ],
-    [
+    "safety-outlier-explorer": [
         {
             "url": "https://api.github.com/repos/RhoInc/safety-outlier-explorer/releases/17467576",
             "assets_url": "https://api.github.com/repos/RhoInc/safety-outlier-explorer/releases/17467576/assets",
@@ -7112,7 +7112,7 @@
             "body": "This is the initial release of the Test Results Outlier Explorer. This interactive tool allows users to compare lab and vital sign data over time to search for values that fall outside of expected ranges.\n"
         }
     ],
-    [
+    "safety-results-over-time": [
         {
             "url": "https://api.github.com/repos/RhoInc/safety-results-over-time/releases/17399409",
             "assets_url": "https://api.github.com/repos/RhoInc/safety-results-over-time/releases/17399409/assets",
@@ -7816,7 +7816,7 @@
             "body": "This is the initial release of the Test Results Over Time tool. This interactive box and whisker plot displays lab and vital sign information at different time points.\n"
         }
     ],
-    [
+    "safety-shift-plot": [
         {
             "url": "https://api.github.com/repos/RhoInc/safety-shift-plot/releases/17427699",
             "assets_url": "https://api.github.com/repos/RhoInc/safety-shift-plot/releases/17427699/assets",
@@ -8325,7 +8325,7 @@
             "body": "This is the initial release of the Shift Plot. This interactive tool features a dot plot that allows users to compare lab and vital sign values between two time points.\n"
         }
     ],
-    [
+    "safetyexploreR": [
         {
             "url": "https://api.github.com/repos/RhoInc/safetyexploreR/releases/10023253",
             "assets_url": "https://api.github.com/repos/RhoInc/safetyexploreR/releases/10023253/assets",
@@ -8522,7 +8522,7 @@
             "body": "This is the initial release of the safetyexploreR R package.  This package provides an R interface for Rho's JavaScript-based safety explorer suite.  The package contains individual functions for each of the 6 widgets: AE Explorer, AE Timelines, Safety Histogram, Safety Outlier Explorer, Safety Results Over Time, and Safety Shift Plot.  The widgets can be viewed in the R console or embedded in an R Markdown file or Shiny app.\n"
         }
     ],
-    [
+    "sas-axismacro": [
         {
             "url": "https://api.github.com/repos/RhoInc/sas-axismacro/releases/3730857",
             "assets_url": "https://api.github.com/repos/RhoInc/sas-axismacro/releases/3730857/assets",
@@ -8680,7 +8680,7 @@
             "body": "Initial release.\n"
         }
     ],
-    [
+    "sas-beeswarm": [
         {
             "url": "https://api.github.com/repos/RhoInc/sas-beeswarm/releases/6367302",
             "assets_url": "https://api.github.com/repos/RhoInc/sas-beeswarm/releases/6367302/assets",
@@ -8760,7 +8760,7 @@
             "body": "Initial release.\n"
         }
     ],
-    [
+    "sas-BreakIt": [
         {
             "url": "https://api.github.com/repos/RhoInc/sas-BreakIt/releases/4119283",
             "assets_url": "https://api.github.com/repos/RhoInc/sas-BreakIt/releases/4119283/assets",
@@ -8801,7 +8801,7 @@
             "body": "This is the initial public release for this repository, which contains a SAS macro designed to determine if RANGES or VALUES options are appropriate for a plot given the data. It then generates RANGES or VALUES text for use in YAXIS/XAXIS statements of SGPLOT. The AxisOrder macro called is available on GitHub: RhoInc/sas-axismacro. \n"
         }
     ],
-    [
+    "sas-codebook": [
         {
             "url": "https://api.github.com/repos/RhoInc/sas-codebook/releases/5585215",
             "assets_url": "https://api.github.com/repos/RhoInc/sas-codebook/releases/5585215/assets",
@@ -9193,9 +9193,9 @@
             "body": "The generic and vertical macros are good, but the panels still has some ODS-induced latencies showing up on the later pages. \n"
         }
     ],
-    [],
-    [],
-    [
+    "sas-ct-gov-aes": [],
+    "sas-install-github": [],
+    "sas-PropIt": [
         {
             "url": "https://api.github.com/repos/RhoInc/sas-PropIt/releases/4119310",
             "assets_url": "https://api.github.com/repos/RhoInc/sas-PropIt/releases/4119310/assets",
@@ -9236,7 +9236,7 @@
             "body": "This is the initial public release for this repository, which contains a SAS macro designed to propcase character variables while allowing for lowcase and upcase exceptions, as well as an exception for the first word of the character string. \n"
         }
     ],
-    [
+    "sas-sankeybarchart": [
         {
             "url": "https://api.github.com/repos/RhoInc/sas-sankeybarchart/releases/4857307",
             "assets_url": "https://api.github.com/repos/RhoInc/sas-sankeybarchart/releases/4857307/assets",
@@ -9433,7 +9433,7 @@
             "body": "Initial release\n"
         }
     ],
-    [
+    "sas-sgplot": [
         {
             "url": "https://api.github.com/repos/RhoInc/sas-sgplot/releases/4007605",
             "assets_url": "https://api.github.com/repos/RhoInc/sas-sgplot/releases/4007605/assets",
@@ -9513,7 +9513,7 @@
             "body": "Initial release. Contains:\n- A very cursory introduction to SGPLOT.\n- A step-by-step analysis of producing a means over time plot.\n- A step-by-step analysis of producing a Kaplan Meier plot.\n\nSuccinct programs are provided for both of the above plot types.\n"
         }
     ],
-    [
+    "sas-snapshotCompare": [
         {
             "url": "https://api.github.com/repos/RhoInc/sas-snapshotCompare/releases/6187458",
             "assets_url": "https://api.github.com/repos/RhoInc/sas-snapshotCompare/releases/6187458/assets",
@@ -9554,8 +9554,8 @@
             "body": "Coupled source code with a wiki."
         }
     ],
-    [],
-    [
+    "sas-statistical-data-checks": [],
+    "sas-violinPlot": [
         {
             "url": "https://api.github.com/repos/RhoInc/sas-violinPlot/releases/6187461",
             "assets_url": "https://api.github.com/repos/RhoInc/sas-violinPlot/releases/6187461/assets",
@@ -9596,7 +9596,7 @@
             "body": "Coupled source code with a wiki."
         }
     ],
-    [
+    "sas-viridis": [
         {
             "url": "https://api.github.com/repos/RhoInc/sas-viridis/releases/5758885",
             "assets_url": "https://api.github.com/repos/RhoInc/sas-viridis/releases/5758885/assets",
@@ -9676,7 +9676,7 @@
             "body": "Initial public release.\n"
         }
     ],
-    [
+    "spike-histogram": [
         {
             "url": "https://api.github.com/repos/RhoInc/spike-histogram/releases/5653510",
             "assets_url": "https://api.github.com/repos/RhoInc/spike-histogram/releases/5653510/assets",
@@ -9717,7 +9717,7 @@
             "body": "Basic functionality for spike-histogram"
         }
     ],
-    [
+    "status-over-time": [
         {
             "url": "https://api.github.com/repos/RhoInc/status-over-time/releases/4304698",
             "assets_url": "https://api.github.com/repos/RhoInc/status-over-time/releases/4304698/assets",
@@ -9797,7 +9797,7 @@
             "body": "Initial working prototype. \n"
         }
     ],
-    [
+    "viz-library": [
         {
             "url": "https://api.github.com/repos/RhoInc/viz-library/releases/13685437",
             "assets_url": "https://api.github.com/repos/RhoInc/viz-library/releases/13685437/assets",
@@ -10423,7 +10423,7 @@
             "body": "Initial proof-of-concept release of the viz-library repo and the [associated web site](https://rhoinc.github.io/viz-library/) with a handful of examples. \n\n_Overview_: Users create stand-alone example graphics using the their method of choice in `/example` folders. Each example must have at least a properly formatted `readme.md`, an `index.html` and an image file. Once an example is added, `npm run build` gathers metadata (from `readme.md`), creates a `thumbnail.png` in the example folder and adds the example to the searchable `index.html` file. Hosting is handled automatically by github pages. \n\nFull documentation, and additional features and **a lot** more examples coming soon. \n"
         }
     ],
-    [
+    "volcano-plot": [
         {
             "url": "https://api.github.com/repos/RhoInc/volcano-plot/releases/7778535",
             "assets_url": "https://api.github.com/repos/RhoInc/volcano-plot/releases/7778535/assets",
@@ -10503,7 +10503,7 @@
             "body": "Initial release has brushable volcano plots with linked tables in a nice modular ES6 framework. Still has a bit of hard coding though ... \r\n\r\n<img width=\"1426\" alt=\"screen shot 2017-09-14 at 8 59 47 am\" src=\"https://user-images.githubusercontent.com/3680095/30430998-25ddbf08-992b-11e7-90c4-13f2647209ed.png\">"
         }
     ],
-    [
+    "web-codebook": [
         {
             "url": "https://api.github.com/repos/RhoInc/web-codebook/releases/13637892",
             "assets_url": "https://api.github.com/repos/RhoInc/web-codebook/releases/13637892/assets",
@@ -11519,7 +11519,7 @@
             "body": "Basic implementation complete. `webcodebook.createChart(\"body\",{}).init(\"data\")` gives you something like this:\n\n<img width=\"878\" alt=\"screen shot 2017-02-17 at 5 06 11 pm\" src=\"https://cloud.githubusercontent.com/assets/3680095/23088657/7066e140-f533-11e6-952f-375d44763762.png\">\n"
         }
     ],
-    [
+    "Webcharts": [
         {
             "url": "https://api.github.com/repos/RhoInc/Webcharts/releases/16411733",
             "assets_url": "https://api.github.com/repos/RhoInc/Webcharts/releases/16411733/assets",
@@ -12691,7 +12691,7 @@
             "body": "Tweak to better handle zeroes in `webcharts.dataOps.getValType()` \n"
         }
     ],
-    [
+    "webcharts-tests": [
         {
             "url": "https://api.github.com/repos/RhoInc/webcharts-tests/releases/9439805",
             "assets_url": "https://api.github.com/repos/RhoInc/webcharts-tests/releases/9439805/assets",
@@ -12771,7 +12771,7 @@
             "body": ""
         }
     ],
-    [
+    "webcharts-wrapper-boilerplate": [
         {
             "url": "https://api.github.com/repos/RhoInc/webcharts-wrapper-boilerplate/releases/3417196",
             "assets_url": "https://api.github.com/repos/RhoInc/webcharts-wrapper-boilerplate/releases/3417196/assets",
@@ -12851,4 +12851,4 @@
             "body": "Initial versioned release of webcharts wrapper boilerplate library with up to date wiki. \n\nThe library provides boilerplate code for creating re-usable webcharts wrapper functions via [node.js](https://nodejs.org/). This boilerplate code extends webcharts to allow users to package together customized behavior beyond those available in the [standard webcharts library](https://github.com/RhoInc/Webcharts) including custom callback functions, default chart configurations and default chart controls.\n"
         }
     ]
-]
+}

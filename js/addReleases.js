@@ -6,7 +6,8 @@ export default function releases() {
         .then(response => response.json())
         .then(json => {
             //Capture latest releases.
-            const latestReleases = json
+            const latestReleases = Object.keys(json)
+                .map(key => json[key])
                 .filter(releases => releases.length > 0)
                 .map(releases => {
                     releases.forEach(release => {

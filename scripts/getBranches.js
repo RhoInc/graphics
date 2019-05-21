@@ -16,8 +16,13 @@ module.exports = function(headers, exit = true) {
     return branches
         .then(responses => Promise.all(responses.map(response => response.json())))
         .then(json => {
+            const byRepo = json.reduce((acc, cur, i) => {
+                acc[repos[i].name] = cur;
+                return acc;
+            }, {});
+
             //Save branches.
-            fs.writeFileSync('./data/branches.json', JSON.stringify(json, null, 4), 'utf8');
+            fs.writeFileSync('./data/branches.json', JSON.stringify(byRepo, null, 4), 'utf8');
             console.log('All branches successfully saved to ./data/branches.json!');
             if (exit) process.exit();
         })

@@ -16,8 +16,13 @@ module.exports = function(headers, exit = true) {
     return releases
         .then(responses => Promise.all(responses.map(response => response.json())))
         .then(json => {
+            const byRepo = json.reduce((acc, cur, i) => {
+                acc[repos[i].name] = cur;
+                return acc;
+            }, {});
+
             //Save releases.
-            fs.writeFileSync('./data/releases.json', JSON.stringify(json, null, 4), 'utf8');
+            fs.writeFileSync('./data/releases.json', JSON.stringify(byRepo, null, 4), 'utf8');
             console.log('All releases successfully saved to ./data/releases.json!');
             if (exit) process.exit();
         })
