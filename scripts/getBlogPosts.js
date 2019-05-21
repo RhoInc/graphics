@@ -1,25 +1,28 @@
 const fs = require('fs');
-//const read = require('read');
 const fetch = require('node-fetch');
-//const base64 = require('base-64');
-//global.Headers = fetch.Headers;
+const defineHeaders = require('./defineHeaders');
 
-exports.getBlogPosts = function(headers) {
-    //Fetch list of blog posts.
-    fetch('https://api.github.com/repos/RhoInc/blog/contents/_posts', { headers })
+if (require.main === module)
+    defineHeaders(headers => {
+        module.exports(headers);
+    });
+
+module.exports = function(headers, exit = true) {
+    const blogPosts = fetch('https://api.github.com/repos/RhoInc/blog/contents/_posts', {
+        headers
+    }); // fetch RhoInc repos
+
+    return blogPosts
         .then(response => response.json())
-        .then(response => {
+        .then(json => {
             //Save blog post metadata.
-            fs.writeFile('./data/blogPosts.json', JSON.stringify(response, null, 4), error => {
-                if (error) {
-                    console.log(error);
-                } else {
-                    console.log('Blog post metadata successfully saved to ./data/blogPosts.json!');
-                }
-            });
+            fs.writeFileSync('./data/blogPosts.json', JSON.stringify(json, null, 4), 'utf8');
+            console.log('All blog post metadata successfully saved to ./data/blogPosts.json!');
 
-            //Fetch contents of each blog post.
-            return Promise.all(response.map(blogPost => fetch(blogPost.download_url)));
+            return Promise.all(json.map(blogPost => fetch(blogPost.download_url)));
+        })
+        .catch(error => {
+            console.log(`Error fetching blog post metadata: ${error}`);
         })
         .then(responses => Promise.all(responses.map(response => response.text())))
         .then(text => {
@@ -35,17 +38,10 @@ exports.getBlogPosts = function(headers) {
         })
         .then(blogPosts => {
             //Save blog posts.
-            fs.writeFile('./data/blogPosts.json', JSON.stringify(blogPosts, null, 4), error => {
-                if (error) {
-                    console.log(error);
-                } else {
-                    console.log('All blog posts successfully saved to ./data/blogPosts.json!');
-                }
-            });
-
-            return blogPosts;
+            fs.writeFileSync('./data/blogPosts.json', JSON.stringify(blogPosts, null, 4), 'utf8');
+            if (exit) process.exit();
         })
         .catch(error => {
-            console.log(error);
+            console.log(`Error fetching blog posts: ${error}`);
         });
 };

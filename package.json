@@ -1,6 +1,6 @@
 {
   "name": "graphics",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "the Rho Graphics website",
   "module": "./js/index.js",
   "main": "index.js",
@@ -15,6 +15,7 @@
     "get-all-bot": "node ./scripts/getAll.js $GITHUB_TOKEN && npm run last-update",
     "get-all": "node ./scripts/getAll.js",
     "get-blog-posts": "node ./scripts/getBlogPosts.js",
+    "get-branches": "node ./scripts/getBranches.js",
     "get-releases": "node ./scripts/getReleases.js",
     "get-repos": "node ./scripts/getRepos.js",
     "last-update": "node ./scripts/lastUpdate",

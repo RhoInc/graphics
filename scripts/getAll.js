@@ -1,37 +1,17 @@
-const read = require('read');
-const base64 = require('base-64');
+const fs = require('fs');
 const fetch = require('node-fetch');
-global.Headers = fetch.Headers;
-const getRepos = require('./getRepos').getRepos;
-const getBlogPosts = require('./getBlogPosts').getBlogPosts;
+const defineHeaders = require('./defineHeaders');
+const getRepos = require('./getRepos');
+const getBlogPosts = require('./getBlogPosts');
 
-const pw = process.argv[2];
-const headers = new Headers();
-
-if (pw) {
-    headers.append('Authorization', 'Basic ' + base64.encode('jwildfire@gmail.com' + ':' + pw));
-    getRepos(headers); // calls getReleases
-    getBlogPosts(headers);
-} else {
-    read({ prompt: 'Username: ' }, function(error, username) {
-        if (error) {
-            console.log('Error: ' + error);
-            return;
-        }
-
-        read({ prompt: 'Password: ', silent: true }, function(error, password) {
-            if (error) {
-                console.log('Error: ' + error);
-                return;
-            }
-
-            //Define fetch headers.
-
-            headers.append('Authorization', 'Basic ' + base64.encode(username + ':' + password));
-
-            //Download data from GitHub.
-            getRepos(headers); // calls getReleases
-            getBlogPosts(headers);
+defineHeaders(headers => {
+    Promise.all([getBlogPosts(headers, false), getRepos(headers, false)])
+        .then(() => {
+            const getReleases = require('./getReleases');
+            const getBranches = require('./getBranches');
+            return Promise.all([getReleases(headers, false), getBranches(headers, false)]);
+        })
+        .then(() => {
+            process.exit();
         });
-    });
-}
+});
