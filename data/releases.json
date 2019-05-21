@@ -6293,6 +6293,45 @@
     ],
     [
         {
+            "url": "https://api.github.com/repos/RhoInc/safety-outlier-explorer/releases/17467576",
+            "assets_url": "https://api.github.com/repos/RhoInc/safety-outlier-explorer/releases/17467576/assets",
+            "upload_url": "https://uploads.github.com/repos/RhoInc/safety-outlier-explorer/releases/17467576/assets{?name,label}",
+            "html_url": "https://github.com/RhoInc/safety-outlier-explorer/releases/tag/v2.5.4",
+            "id": 17467576,
+            "node_id": "MDc6UmVsZWFzZTE3NDY3NTc2",
+            "tag_name": "v2.5.4",
+            "target_commitish": "master",
+            "name": "v2.5.4",
+            "draft": false,
+            "author": {
+                "login": "samussiah",
+                "id": 5428548,
+                "node_id": "MDQ6VXNlcjU0Mjg1NDg=",
+                "avatar_url": "https://avatars0.githubusercontent.com/u/5428548?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/samussiah",
+                "html_url": "https://github.com/samussiah",
+                "followers_url": "https://api.github.com/users/samussiah/followers",
+                "following_url": "https://api.github.com/users/samussiah/following{/other_user}",
+                "gists_url": "https://api.github.com/users/samussiah/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/samussiah/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/samussiah/subscriptions",
+                "organizations_url": "https://api.github.com/users/samussiah/orgs",
+                "repos_url": "https://api.github.com/users/samussiah/repos",
+                "events_url": "https://api.github.com/users/samussiah/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/samussiah/received_events",
+                "type": "User",
+                "site_admin": false
+            },
+            "prerelease": false,
+            "created_at": "2019-05-20T16:28:04Z",
+            "published_at": "2019-05-20T16:31:03Z",
+            "assets": [],
+            "tarball_url": "https://api.github.com/repos/RhoInc/safety-outlier-explorer/tarball/v2.5.4",
+            "zipball_url": "https://api.github.com/repos/RhoInc/safety-outlier-explorer/zipball/v2.5.4",
+            "body": "Safety Outlier Explorer v2.5.4 makes `array` settings (`filters`, `details`, and `tooltip_cols`) more permissive by allowing a string argument in addition to an array of length 1."
+        },
+        {
             "url": "https://api.github.com/repos/RhoInc/safety-outlier-explorer/releases/16649793",
             "assets_url": "https://api.github.com/repos/RhoInc/safety-outlier-explorer/releases/16649793/assets",
             "upload_url": "https://uploads.github.com/repos/RhoInc/safety-outlier-explorer/releases/16649793/assets{?name,label}",
@@ -9515,6 +9554,7 @@
             "body": "Coupled source code with a wiki."
         }
     ],
+    [],
     [
         {
             "url": "https://api.github.com/repos/RhoInc/sas-violinPlot/releases/6187461",
