@@ -9,11 +9,11 @@ if (require.main === module)
     });
 
 module.exports = function(headers, exit = true) {
-    const releases = Promise.all(
-        repos.map(repo => fetch(repo.releases_url.replace('{/id}', ''), { headers }))
-    ); // fetch each repo's releases
+    const branches = Promise.all(
+        repos.map(repo => fetch(repo.branches_url.replace('{/branch}', ''), { headers }))
+    ); // fetch each repo's branches
 
-    return releases
+    return branches
         .then(responses => Promise.all(responses.map(response => response.json())))
         .then(json => {
             const byRepo = json.reduce((acc, cur, i) => {
@@ -21,12 +21,12 @@ module.exports = function(headers, exit = true) {
                 return acc;
             }, {});
 
-            //Save releases.
-            fs.writeFileSync('./data/releases.json', JSON.stringify(byRepo, null, 4), 'utf8');
-            console.log('All releases successfully saved to ./data/releases.json!');
+            //Save branches.
+            fs.writeFileSync('./data/branches.json', JSON.stringify(byRepo, null, 4), 'utf8');
+            console.log('All branches successfully saved to ./data/branches.json!');
             if (exit) process.exit();
         })
         .catch(error => {
-            console.log(`Error fetching releases: ${error}`);
+            console.log(`Error fetching branches: ${error}`);
         });
 };

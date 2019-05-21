@@ -963,7 +963,10 @@
             })
             .then(function(json) {
                 //Capture latest releases.
-                var latestReleases = json
+                var latestReleases = Object.keys(json)
+                    .map(function(key) {
+                        return json[key];
+                    })
                     .filter(function(releases) {
                         return releases.length > 0;
                     })
@@ -1050,13 +1053,13 @@
                 return !dashes;
             });
         split.unshift('### '.concat(title));
-        split.push('_Written by '.concat(author, ' on month xx, xxxx_'));
+        split.push('_Written by '.concat(author, ' on [date]_'));
         var html = converter.makeHtml(split.join('\n'));
         return html;
     }
 
     function blogPosts() {
-        fetch('data/blogPosts.json')
+        fetch('./data/blogPosts.json')
             .then(function(response) {
                 return response.json();
             })
@@ -1064,13 +1067,14 @@
                 var latestBlogPost = json.sort(function(a, b) {
                     return a.name < b.name ? 1 : -1;
                 })[0];
-                var html = md2html(latestBlogPost.md);
+                var html = md2html(latestBlogPost.md).replace(
+                    '[date]',
+                    latestBlogPost.name.substring(0, 10)
+                );
                 var blogPost = d3.select('.blog-post');
                 blogPost
                     .append('div')
-                    .style('background', 'white')
-                    .style('border', '1px solid #999')
-                    .style('padding', '0.5em')
+                    .classed('blog-post__innards', true)
                     .html(html);
                 blogPost
                     .append('p')
