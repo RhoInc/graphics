@@ -43,6 +43,11 @@ header{
 .blog-post img {
     max-width: 100%;
 }
+.blog-post__innards {
+    background: white;
+    border: 1px solid #999;
+    padding: 0.5em;
+}
 
 /* Latest Publications */
 

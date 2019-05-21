@@ -23,7 +23,7 @@ export default function md2html(text) {
             return !dashes;
         });
     split.unshift(`### ${title}`);
-    split.push(`_Written by ${author} on month xx, xxxx_`);
+    split.push(`_Written by ${author} on [date]_`);
     const html = converter.makeHtml(split.join('\n'));
     return html;
 }
