@@ -414,7 +414,7 @@
         "watchers": 0,
         "default_branch": "master",
         "permissions": {
-            "admin": false,
+            "admin": true,
             "push": true,
             "pull": true
         }
@@ -519,7 +519,7 @@
         "watchers": 0,
         "default_branch": "master",
         "permissions": {
-            "admin": false,
+            "admin": true,
             "push": true,
             "pull": true
         }
@@ -624,8 +624,8 @@
         "watchers": 0,
         "default_branch": "master",
         "permissions": {
-            "admin": false,
-            "push": false,
+            "admin": true,
+            "push": true,
             "pull": true
         }
     },
@@ -697,13 +697,13 @@
         "deployments_url": "https://api.github.com/repos/RhoInc/CAT/deployments",
         "created_at": "2017-04-07T13:46:20Z",
         "updated_at": "2019-02-18T19:20:37Z",
-        "pushed_at": "2019-05-13T20:53:23Z",
+        "pushed_at": "2019-05-21T21:24:03Z",
         "git_url": "git://github.com/RhoInc/CAT.git",
         "ssh_url": "git@github.com:RhoInc/CAT.git",
         "clone_url": "https://github.com/RhoInc/CAT.git",
         "svn_url": "https://github.com/RhoInc/CAT",
         "homepage": "https://rhoinc.github.io/CAT/",
-        "size": 822,
+        "size": 863,
         "stargazers_count": 0,
         "watchers_count": 0,
         "language": "JavaScript",
@@ -939,8 +939,8 @@
         "watchers": 28,
         "default_branch": "master",
         "permissions": {
-            "admin": false,
-            "push": false,
+            "admin": true,
+            "push": true,
             "pull": true
         }
     },
@@ -1012,13 +1012,13 @@
         "deployments_url": "https://api.github.com/repos/RhoInc/crf-heat-map/deployments",
         "created_at": "2018-04-11T20:38:59Z",
         "updated_at": "2019-04-02T16:52:31Z",
-        "pushed_at": "2019-05-21T18:20:16Z",
+        "pushed_at": "2019-05-21T19:31:20Z",
         "git_url": "git://github.com/RhoInc/crf-heat-map.git",
         "ssh_url": "git@github.com:RhoInc/crf-heat-map.git",
         "clone_url": "https://github.com/RhoInc/crf-heat-map.git",
         "svn_url": "https://github.com/RhoInc/crf-heat-map",
         "homepage": "https://rhoinc.github.io/crf-heat-map/test-page/",
-        "size": 3897,
+        "size": 3926,
         "stargazers_count": 1,
         "watchers_count": 1,
         "language": "JavaScript",
@@ -1031,7 +1031,7 @@
         "mirror_url": null,
         "archived": false,
         "disabled": false,
-        "open_issues_count": 21,
+        "open_issues_count": 20,
         "license": {
             "key": "mit",
             "name": "MIT License",
@@ -1040,7 +1040,7 @@
             "node_id": "MDc6TGljZW5zZTEz"
         },
         "forks": 0,
-        "open_issues": 21,
+        "open_issues": 20,
         "watchers": 1,
         "default_branch": "master",
         "permissions": {
@@ -1359,8 +1359,8 @@
         "watchers": 1,
         "default_branch": "master",
         "permissions": {
-            "admin": false,
-            "push": false,
+            "admin": true,
+            "push": true,
             "pull": true
         }
     },
@@ -1464,7 +1464,7 @@
         "watchers": 0,
         "default_branch": "master",
         "permissions": {
-            "admin": false,
+            "admin": true,
             "push": true,
             "pull": true
         }
@@ -1569,8 +1569,8 @@
         "watchers": 38,
         "default_branch": "master",
         "permissions": {
-            "admin": false,
-            "push": false,
+            "admin": true,
+            "push": true,
             "pull": true
         }
     },
@@ -1674,8 +1674,8 @@
         "watchers": 1,
         "default_branch": "master",
         "permissions": {
-            "admin": false,
-            "push": false,
+            "admin": true,
+            "push": true,
             "pull": true
         }
     },
@@ -1746,14 +1746,14 @@
         "releases_url": "https://api.github.com/repos/RhoInc/graphics/releases{/id}",
         "deployments_url": "https://api.github.com/repos/RhoInc/graphics/deployments",
         "created_at": "2018-12-19T20:42:02Z",
-        "updated_at": "2019-05-21T05:44:41Z",
-        "pushed_at": "2019-05-21T19:08:41Z",
+        "updated_at": "2019-05-21T19:10:44Z",
+        "pushed_at": "2019-05-21T19:10:45Z",
         "git_url": "git://github.com/RhoInc/graphics.git",
         "ssh_url": "git@github.com:RhoInc/graphics.git",
         "clone_url": "https://github.com/RhoInc/graphics.git",
         "svn_url": "https://github.com/RhoInc/graphics",
         "homepage": "https://rhoinc.github.io/graphics/",
-        "size": 13826,
+        "size": 13723,
         "stargazers_count": 0,
         "watchers_count": 0,
         "language": "JavaScript",
@@ -1766,7 +1766,7 @@
         "mirror_url": null,
         "archived": false,
         "disabled": false,
-        "open_issues_count": 5,
+        "open_issues_count": 2,
         "license": {
             "key": "mit",
             "name": "MIT License",
@@ -1775,11 +1775,11 @@
             "node_id": "MDc6TGljZW5zZTEz"
         },
         "forks": 0,
-        "open_issues": 5,
+        "open_issues": 2,
         "watchers": 0,
         "default_branch": "master",
         "permissions": {
-            "admin": false,
+            "admin": true,
             "push": true,
             "pull": true
         }
@@ -1884,7 +1884,7 @@
         "watchers": 3,
         "default_branch": "master",
         "permissions": {
-            "admin": false,
+            "admin": true,
             "push": true,
             "pull": true
         }
@@ -1989,8 +1989,8 @@
         "watchers": 2,
         "default_branch": "master",
         "permissions": {
-            "admin": false,
-            "push": false,
+            "admin": true,
+            "push": true,
             "pull": true
         }
     },
@@ -2619,7 +2619,7 @@
         "watchers": 0,
         "default_branch": "master",
         "permissions": {
-            "admin": false,
+            "admin": true,
             "push": true,
             "pull": true
         }
@@ -2829,8 +2829,8 @@
         "watchers": 0,
         "default_branch": "master",
         "permissions": {
-            "admin": false,
-            "push": false,
+            "admin": true,
+            "push": true,
             "pull": true
         }
     },
@@ -2934,8 +2934,8 @@
         "watchers": 6,
         "default_branch": "master",
         "permissions": {
-            "admin": false,
-            "push": false,
+            "admin": true,
+            "push": true,
             "pull": true
         }
     },
@@ -4089,7 +4089,7 @@
         "watchers": 0,
         "default_branch": "master",
         "permissions": {
-            "admin": false,
+            "admin": true,
             "push": true,
             "pull": true
         }
@@ -4929,8 +4929,8 @@
         "watchers": 2,
         "default_branch": "master",
         "permissions": {
-            "admin": false,
-            "push": false,
+            "admin": true,
+            "push": true,
             "pull": true
         }
     },
@@ -5139,7 +5139,7 @@
         "watchers": 0,
         "default_branch": "master",
         "permissions": {
-            "admin": false,
+            "admin": true,
             "push": true,
             "pull": true
         }
@@ -5218,7 +5218,7 @@
         "clone_url": "https://github.com/RhoInc/viz-library.git",
         "svn_url": "https://github.com/RhoInc/viz-library",
         "homepage": "https://rhoinc.github.io/viz-library/",
-        "size": 61132,
+        "size": 61133,
         "stargazers_count": 5,
         "watchers_count": 5,
         "language": "HTML",
@@ -5664,7 +5664,7 @@
         "watchers": 0,
         "default_branch": "master",
         "permissions": {
-            "admin": false,
+            "admin": true,
             "push": true,
             "pull": true
         }
