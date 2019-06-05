@@ -531,8 +531,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "56a0b2656c48ce1aa0dc0b0513857ad179341888",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/56a0b2656c48ce1aa0dc0b0513857ad179341888"
+                "sha": "7140f3b740d9d462bd30f010d79c97b49feb774e",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/7140f3b740d9d462bd30f010d79c97b49feb774e"
             },
             "protected": false,
             "protection": {
@@ -757,8 +757,8 @@
         {
             "name": "dev-v2.1.1",
             "commit": {
-                "sha": "3bf17b968c6eac5db0ae60fe8257ec1a97dbf770",
-                "url": "https://api.github.com/repos/RhoInc/query-overview/commits/3bf17b968c6eac5db0ae60fe8257ec1a97dbf770"
+                "sha": "f06624708d35db104f3965b2eec3db6880388c9c",
+                "url": "https://api.github.com/repos/RhoInc/query-overview/commits/f06624708d35db104f3965b2eec3db6880388c9c"
             },
             "protected": false,
             "protection": {
@@ -923,6 +923,22 @@
             "protection_url": "https://api.github.com/repos/RhoInc/safety-histogram/branches/dev-v2.4.0/protection"
         },
         {
+            "name": "linear-x-axis",
+            "commit": {
+                "sha": "db612436aed353d6186b7c7d809ffaba44751f9e",
+                "url": "https://api.github.com/repos/RhoInc/safety-histogram/commits/db612436aed353d6186b7c7d809ffaba44751f9e"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/safety-histogram/branches/linear-x-axis/protection"
+        },
+        {
             "name": "master",
             "commit": {
                 "sha": "b4971fc6a51fb9681a98c7745cf1e7d7047ad9c9",
@@ -941,8 +957,8 @@
         {
             "name": "overlapping-bin-boundaries",
             "commit": {
-                "sha": "1013ddb12fcf0824021a7ec49fec2974f6351a45",
-                "url": "https://api.github.com/repos/RhoInc/safety-histogram/commits/1013ddb12fcf0824021a7ec49fec2974f6351a45"
+                "sha": "55c6f72960d550091a911765c26d46df46743a1a",
+                "url": "https://api.github.com/repos/RhoInc/safety-histogram/commits/55c6f72960d550091a911765c26d46df46743a1a"
             },
             "protected": false,
             "protection": {
@@ -1429,8 +1445,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "da651bece538e3f9007299c810210f8f212a2e51",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/da651bece538e3f9007299c810210f8f212a2e51"
+                "sha": "2a6edaae9fc5dc6b31a74395a3c0d0370dbcf1cf",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/2a6edaae9fc5dc6b31a74395a3c0d0370dbcf1cf"
             },
             "protected": true,
             "protection": {
