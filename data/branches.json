@@ -563,8 +563,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "04e372b153766179b655affccf59eec574963bd2",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/04e372b153766179b655affccf59eec574963bd2"
+                "sha": "a2333253a16910562e18aa5dca6439fea33f8c3d",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/a2333253a16910562e18aa5dca6439fea33f8c3d"
             },
             "protected": false,
             "protection": {
@@ -685,22 +685,6 @@
     ],
     "participant-visit-listing": [
         {
-            "name": "dev-v1.3.1",
-            "commit": {
-                "sha": "d93d43c27289891c79c598acf4dc0812d460a0c8",
-                "url": "https://api.github.com/repos/RhoInc/participant-visit-listing/commits/d93d43c27289891c79c598acf4dc0812d460a0c8"
-            },
-            "protected": false,
-            "protection": {
-                "enabled": false,
-                "required_status_checks": {
-                    "enforcement_level": "off",
-                    "contexts": []
-                }
-            },
-            "protection_url": "https://api.github.com/repos/RhoInc/participant-visit-listing/branches/dev-v1.3.1/protection"
-        },
-        {
             "name": "dev-v1.4.0",
             "commit": {
                 "sha": "87b538767b690ddb6f1327b6e6906db5d2668349",
@@ -719,8 +703,8 @@
         {
             "name": "floating-x-axis",
             "commit": {
-                "sha": "ac23d3cc1bf10a8cf031837df98f62d57e7f9c5d",
-                "url": "https://api.github.com/repos/RhoInc/participant-visit-listing/commits/ac23d3cc1bf10a8cf031837df98f62d57e7f9c5d"
+                "sha": "3826bd62f95a8f2cb62f5342a1771dc83f3c24bb",
+                "url": "https://api.github.com/repos/RhoInc/participant-visit-listing/commits/3826bd62f95a8f2cb62f5342a1771dc83f3c24bb"
             },
             "protected": false,
             "protection": {
@@ -731,6 +715,22 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/participant-visit-listing/branches/floating-x-axis/protection"
+        },
+        {
+            "name": "highlight-visit",
+            "commit": {
+                "sha": "0b335e32b186e1c330f2f8979976c12fe03d2c1b",
+                "url": "https://api.github.com/repos/RhoInc/participant-visit-listing/commits/0b335e32b186e1c330f2f8979976c12fe03d2c1b"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/participant-visit-listing/branches/highlight-visit/protection"
         },
         {
             "name": "loading-indicator",
@@ -751,8 +751,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "5f29dde82319fdc90c61922bbba2507471f87fb7",
-                "url": "https://api.github.com/repos/RhoInc/participant-visit-listing/commits/5f29dde82319fdc90c61922bbba2507471f87fb7"
+                "sha": "304cc5b1c796b02aafab23ba19d9c58664192abe",
+                "url": "https://api.github.com/repos/RhoInc/participant-visit-listing/commits/304cc5b1c796b02aafab23ba19d9c58664192abe"
             },
             "protected": true,
             "protection": {
@@ -763,6 +763,22 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/participant-visit-listing/branches/master/protection"
+        },
+        {
+            "name": "move-listing-scrollbar",
+            "commit": {
+                "sha": "1289dfa3d6b16032d6e0cd43812d96eceb5d00fa",
+                "url": "https://api.github.com/repos/RhoInc/participant-visit-listing/commits/1289dfa3d6b16032d6e0cd43812d96eceb5d00fa"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/participant-visit-listing/branches/move-listing-scrollbar/protection"
         }
     ],
     "PopulationExplorer": [
@@ -893,8 +909,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "f1a3895abc59ff48ef70a0241e461b7cbd9b13c8",
-                "url": "https://api.github.com/repos/RhoInc/safety-explorer-suite/commits/f1a3895abc59ff48ef70a0241e461b7cbd9b13c8"
+                "sha": "2f82720a829317e2f9127ed3a9f8505577c82f43",
+                "url": "https://api.github.com/repos/RhoInc/safety-explorer-suite/commits/2f82720a829317e2f9127ed3a9f8505577c82f43"
             },
             "protected": false,
             "protection": {
@@ -909,8 +925,8 @@
         {
             "name": "test-branch",
             "commit": {
-                "sha": "bf150e835f88e818a26ca6c692085c9c2b0d8501",
-                "url": "https://api.github.com/repos/RhoInc/safety-explorer-suite/commits/bf150e835f88e818a26ca6c692085c9c2b0d8501"
+                "sha": "f1a3895abc59ff48ef70a0241e461b7cbd9b13c8",
+                "url": "https://api.github.com/repos/RhoInc/safety-explorer-suite/commits/f1a3895abc59ff48ef70a0241e461b7cbd9b13c8"
             },
             "protected": false,
             "protection": {
@@ -1527,8 +1543,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "f43524e9ed8164863a35cbb7ad4415692689bd90",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/f43524e9ed8164863a35cbb7ad4415692689bd90"
+                "sha": "c8b571c283b5fa111be311fcb68eec92a2d9a808",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/c8b571c283b5fa111be311fcb68eec92a2d9a808"
             },
             "protected": true,
             "protection": {
