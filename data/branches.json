@@ -563,8 +563,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "a2333253a16910562e18aa5dca6439fea33f8c3d",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/a2333253a16910562e18aa5dca6439fea33f8c3d"
+                "sha": "23ba931bf560056ebff800cc74632f5c0a0fcee5",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/23ba931bf560056ebff800cc74632f5c0a0fcee5"
             },
             "protected": false,
             "protection": {
@@ -701,6 +701,22 @@
             "protection_url": "https://api.github.com/repos/RhoInc/participant-visit-listing/branches/dev-v1.4.0/protection"
         },
         {
+            "name": "display-dates",
+            "commit": {
+                "sha": "02c0197d843387ebc1b17195ef693421ffc513cb",
+                "url": "https://api.github.com/repos/RhoInc/participant-visit-listing/commits/02c0197d843387ebc1b17195ef693421ffc513cb"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/participant-visit-listing/branches/display-dates/protection"
+        },
+        {
             "name": "floating-x-axis",
             "commit": {
                 "sha": "3826bd62f95a8f2cb62f5342a1771dc83f3c24bb",
@@ -717,10 +733,26 @@
             "protection_url": "https://api.github.com/repos/RhoInc/participant-visit-listing/branches/floating-x-axis/protection"
         },
         {
+            "name": "highlight-row",
+            "commit": {
+                "sha": "1769f07b52e113c814807ddd8a0dd3ce005d7963",
+                "url": "https://api.github.com/repos/RhoInc/participant-visit-listing/commits/1769f07b52e113c814807ddd8a0dd3ce005d7963"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/participant-visit-listing/branches/highlight-row/protection"
+        },
+        {
             "name": "highlight-visit",
             "commit": {
-                "sha": "0b335e32b186e1c330f2f8979976c12fe03d2c1b",
-                "url": "https://api.github.com/repos/RhoInc/participant-visit-listing/commits/0b335e32b186e1c330f2f8979976c12fe03d2c1b"
+                "sha": "a5cfa87d01c64952021e617bddcf83e450a79013",
+                "url": "https://api.github.com/repos/RhoInc/participant-visit-listing/commits/a5cfa87d01c64952021e617bddcf83e450a79013"
             },
             "protected": false,
             "protection": {
@@ -1543,8 +1575,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "c8b571c283b5fa111be311fcb68eec92a2d9a808",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/c8b571c283b5fa111be311fcb68eec92a2d9a808"
+                "sha": "dd16db59a08ce8ba883030631aa79f004094c542",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/dd16db59a08ce8ba883030631aa79f004094c542"
             },
             "protected": true,
             "protection": {
