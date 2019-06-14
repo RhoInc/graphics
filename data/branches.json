@@ -547,8 +547,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "16e05ef05d9a3d2572d38d2ddd41b0ef5155036e",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/16e05ef05d9a3d2572d38d2ddd41b0ef5155036e"
+                "sha": "48a74c9ac729e68d1f284b95b9b1b0f4398abac2",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/48a74c9ac729e68d1f284b95b9b1b0f4398abac2"
             },
             "protected": false,
             "protection": {
@@ -883,26 +883,10 @@
             "protection_url": "https://api.github.com/repos/RhoInc/query-overview/branches/date-range/protection"
         },
         {
-            "name": "dev-v2.1.2",
-            "commit": {
-                "sha": "7d30fd8fb9510accc8bddfc1bbaca35ea8f55e61",
-                "url": "https://api.github.com/repos/RhoInc/query-overview/commits/7d30fd8fb9510accc8bddfc1bbaca35ea8f55e61"
-            },
-            "protected": false,
-            "protection": {
-                "enabled": false,
-                "required_status_checks": {
-                    "enforcement_level": "off",
-                    "contexts": []
-                }
-            },
-            "protection_url": "https://api.github.com/repos/RhoInc/query-overview/branches/dev-v2.1.2/protection"
-        },
-        {
             "name": "master",
             "commit": {
-                "sha": "2aea898ad86b13a76fe96944a87c43b6713d98fc",
-                "url": "https://api.github.com/repos/RhoInc/query-overview/commits/2aea898ad86b13a76fe96944a87c43b6713d98fc"
+                "sha": "635ab0ed7424a854c4ccda1db481b7364156c45c",
+                "url": "https://api.github.com/repos/RhoInc/query-overview/commits/635ab0ed7424a854c4ccda1db481b7364156c45c"
             },
             "protected": true,
             "protection": {
@@ -1037,22 +1021,6 @@
             "protection_url": "https://api.github.com/repos/RhoInc/safety-histogram/branches/bins-control/protection"
         },
         {
-            "name": "dev-v2.3.1",
-            "commit": {
-                "sha": "6ea9379af9f7341197c6dc96043496e33a83991f",
-                "url": "https://api.github.com/repos/RhoInc/safety-histogram/commits/6ea9379af9f7341197c6dc96043496e33a83991f"
-            },
-            "protected": false,
-            "protection": {
-                "enabled": false,
-                "required_status_checks": {
-                    "enforcement_level": "off",
-                    "contexts": []
-                }
-            },
-            "protection_url": "https://api.github.com/repos/RhoInc/safety-histogram/branches/dev-v2.3.1/protection"
-        },
-        {
             "name": "dev-v2.4.0",
             "commit": {
                 "sha": "2ea4a0889a4049b09e76cb09f2e37d5921ee6d30",
@@ -1087,8 +1055,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "b4971fc6a51fb9681a98c7745cf1e7d7047ad9c9",
-                "url": "https://api.github.com/repos/RhoInc/safety-histogram/commits/b4971fc6a51fb9681a98c7745cf1e7d7047ad9c9"
+                "sha": "b112ee3d4f79cbba1bbab1b1d8cc11f70a463846",
+                "url": "https://api.github.com/repos/RhoInc/safety-histogram/commits/b112ee3d4f79cbba1bbab1b1d8cc11f70a463846"
             },
             "protected": true,
             "protection": {
@@ -1591,8 +1559,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "efef2c3b62bae21d16f4e61cfea688b62d160584",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/efef2c3b62bae21d16f4e61cfea688b62d160584"
+                "sha": "407fbfd1ed62d55c8fa1dc60b6dbfd7b69c41d20",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/407fbfd1ed62d55c8fa1dc60b6dbfd7b69c41d20"
             },
             "protected": true,
             "protection": {
@@ -1739,26 +1707,10 @@
             "protection_url": "https://api.github.com/repos/RhoInc/Webcharts/branches/axis-behavior-unit-tests/protection"
         },
         {
-            "name": "histogram-domain",
-            "commit": {
-                "sha": "147b20857a9452f70cfa4f5be0cbb4345672bdf0",
-                "url": "https://api.github.com/repos/RhoInc/Webcharts/commits/147b20857a9452f70cfa4f5be0cbb4345672bdf0"
-            },
-            "protected": false,
-            "protection": {
-                "enabled": false,
-                "required_status_checks": {
-                    "enforcement_level": "off",
-                    "contexts": []
-                }
-            },
-            "protection_url": "https://api.github.com/repos/RhoInc/Webcharts/branches/histogram-domain/protection"
-        },
-        {
             "name": "master",
             "commit": {
-                "sha": "70bf71c80fa540f51ea4af85bb9d8137741c22a3",
-                "url": "https://api.github.com/repos/RhoInc/Webcharts/commits/70bf71c80fa540f51ea4af85bb9d8137741c22a3"
+                "sha": "f4932c2e2ebed32257e209c4945b59af5b2e5628",
+                "url": "https://api.github.com/repos/RhoInc/Webcharts/commits/f4932c2e2ebed32257e209c4945b59af5b2e5628"
             },
             "protected": true,
             "protection": {
