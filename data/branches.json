@@ -91,8 +91,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "fd149ff3859ae0c88a5f966d7e097c16d0411026",
-                "url": "https://api.github.com/repos/RhoInc/blog/commits/fd149ff3859ae0c88a5f966d7e097c16d0411026"
+                "sha": "28fbcd068616fdd1c100b2949f6f28c0bafed036",
+                "url": "https://api.github.com/repos/RhoInc/blog/commits/28fbcd068616fdd1c100b2949f6f28c0bafed036"
             },
             "protected": true,
             "protection": {
@@ -107,8 +107,8 @@
         {
             "name": "safetygraphics-v1",
             "commit": {
-                "sha": "9ff961bd133c5c0ddc6f43e4130c20638c751e4b",
-                "url": "https://api.github.com/repos/RhoInc/blog/commits/9ff961bd133c5c0ddc6f43e4130c20638c751e4b"
+                "sha": "6508153b9184837a221f948cf8b65d17ea07c367",
+                "url": "https://api.github.com/repos/RhoInc/blog/commits/6508153b9184837a221f948cf8b65d17ea07c367"
             },
             "protected": false,
             "protection": {
@@ -123,8 +123,8 @@
         {
             "name": "samussiah-patch-1",
             "commit": {
-                "sha": "5f3419c029f62addbb202ae85bc38d526b038f41",
-                "url": "https://api.github.com/repos/RhoInc/blog/commits/5f3419c029f62addbb202ae85bc38d526b038f41"
+                "sha": "3d16cf4f2a865761d5392602745960dbfb827b76",
+                "url": "https://api.github.com/repos/RhoInc/blog/commits/3d16cf4f2a865761d5392602745960dbfb827b76"
             },
             "protected": false,
             "protection": {
@@ -563,8 +563,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "80fd01339276bbff9299c4ef1be7aed124f58f11",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/80fd01339276bbff9299c4ef1be7aed124f58f11"
+                "sha": "2ea9dbb266929739b44c8d4c679bcc6fbcecdc4e",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/2ea9dbb266929739b44c8d4c679bcc6fbcecdc4e"
             },
             "protected": false,
             "protection": {
@@ -1575,8 +1575,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "2611f1f27b80882ddc1f74e898997e2a823b3cbb",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/2611f1f27b80882ddc1f74e898997e2a823b3cbb"
+                "sha": "072785bad9673470a00d094e9bc98ef51eb80fa0",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/072785bad9673470a00d094e9bc98ef51eb80fa0"
             },
             "protected": true,
             "protection": {
