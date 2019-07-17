@@ -499,8 +499,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "d34025bbdd1eebc238d93c91d41575a3e2e2e4d9",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/d34025bbdd1eebc238d93c91d41575a3e2e2e4d9"
+                "sha": "a15f1f03bf63d6024c7e8ffce8d87c5348d05c9a",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/a15f1f03bf63d6024c7e8ffce8d87c5348d05c9a"
             },
             "protected": false,
             "protection": {
@@ -621,26 +621,10 @@
     ],
     "participant-visit-listing": [
         {
-            "name": "dev-v1.4.0",
-            "commit": {
-                "sha": "4f40e0a7340ec451d1309b3c81652415488ff344",
-                "url": "https://api.github.com/repos/RhoInc/participant-visit-listing/commits/4f40e0a7340ec451d1309b3c81652415488ff344"
-            },
-            "protected": false,
-            "protection": {
-                "enabled": false,
-                "required_status_checks": {
-                    "enforcement_level": "off",
-                    "contexts": []
-                }
-            },
-            "protection_url": "https://api.github.com/repos/RhoInc/participant-visit-listing/branches/dev-v1.4.0/protection"
-        },
-        {
             "name": "master",
             "commit": {
-                "sha": "c9a1facca0424bf33bc71ce3acccf1fb92f9581b",
-                "url": "https://api.github.com/repos/RhoInc/participant-visit-listing/commits/c9a1facca0424bf33bc71ce3acccf1fb92f9581b"
+                "sha": "171836e7b1ab7277a6b4376b0ce6f8081449a393",
+                "url": "https://api.github.com/repos/RhoInc/participant-visit-listing/commits/171836e7b1ab7277a6b4376b0ce6f8081449a393"
             },
             "protected": true,
             "protection": {
@@ -879,26 +863,10 @@
     ],
     "safety-outlier-explorer": [
         {
-            "name": "dependabot/npm_and_yarn/lodash-4.17.14",
-            "commit": {
-                "sha": "4f74a22746f3ad87fd9f9d6e6a0ae100e82c9a39",
-                "url": "https://api.github.com/repos/RhoInc/safety-outlier-explorer/commits/4f74a22746f3ad87fd9f9d6e6a0ae100e82c9a39"
-            },
-            "protected": false,
-            "protection": {
-                "enabled": false,
-                "required_status_checks": {
-                    "enforcement_level": "off",
-                    "contexts": []
-                }
-            },
-            "protection_url": "https://api.github.com/repos/RhoInc/safety-outlier-explorer/branches/dependabot/npm_and_yarn/lodash-4.17.14/protection"
-        },
-        {
             "name": "master",
             "commit": {
-                "sha": "7ea4bf2b26ac1539e6a3d747cd21f7ee6d646994",
-                "url": "https://api.github.com/repos/RhoInc/safety-outlier-explorer/commits/7ea4bf2b26ac1539e6a3d747cd21f7ee6d646994"
+                "sha": "0311a14beddbbbc44d8042ebf4ecd597a8f2efb4",
+                "url": "https://api.github.com/repos/RhoInc/safety-outlier-explorer/commits/0311a14beddbbbc44d8042ebf4ecd597a8f2efb4"
             },
             "protected": true,
             "protection": {
@@ -1351,8 +1319,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "2d262d6be12c6636dd2c1ba0f36d43dac2f8d3ce",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/2d262d6be12c6636dd2c1ba0f36d43dac2f8d3ce"
+                "sha": "1c58a5df5142c935e515e0a50d844f0000c571ea",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/1c58a5df5142c935e515e0a50d844f0000c571ea"
             },
             "protected": true,
             "protection": {
