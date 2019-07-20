@@ -499,8 +499,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "0e97607bd07ccc33d2dc8b4c734f3f360140a2b4",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/0e97607bd07ccc33d2dc8b4c734f3f360140a2b4"
+                "sha": "dcfb2ff8f5de18745688f3cf9a5f6fa8a62e6798",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/dcfb2ff8f5de18745688f3cf9a5f6fa8a62e6798"
             },
             "protected": false,
             "protection": {
@@ -723,26 +723,10 @@
             "protection_url": "https://api.github.com/repos/RhoInc/query-overview/branches/date-range/protection"
         },
         {
-            "name": "dependabot/npm_and_yarn/lodash-4.17.14",
-            "commit": {
-                "sha": "6cca9444da9b21f7164119f2d3864fb2c740c1da",
-                "url": "https://api.github.com/repos/RhoInc/query-overview/commits/6cca9444da9b21f7164119f2d3864fb2c740c1da"
-            },
-            "protected": false,
-            "protection": {
-                "enabled": false,
-                "required_status_checks": {
-                    "enforcement_level": "off",
-                    "contexts": []
-                }
-            },
-            "protection_url": "https://api.github.com/repos/RhoInc/query-overview/branches/dependabot/npm_and_yarn/lodash-4.17.14/protection"
-        },
-        {
             "name": "dev-v2.1.3",
             "commit": {
-                "sha": "7498d7cbabc3e319b2ce04003e62ac2fd7d56841",
-                "url": "https://api.github.com/repos/RhoInc/query-overview/commits/7498d7cbabc3e319b2ce04003e62ac2fd7d56841"
+                "sha": "8661a8fe04b4083688e8453a193944dec37b939f",
+                "url": "https://api.github.com/repos/RhoInc/query-overview/commits/8661a8fe04b4083688e8453a193944dec37b939f"
             },
             "protected": false,
             "protection": {
@@ -753,6 +737,22 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/query-overview/branches/dev-v2.1.3/protection"
+        },
+        {
+            "name": "fix-y-tick-labels",
+            "commit": {
+                "sha": "73cb86fd388f7979eb9a3c69301b02322fe6c9a4",
+                "url": "https://api.github.com/repos/RhoInc/query-overview/commits/73cb86fd388f7979eb9a3c69301b02322fe6c9a4"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/query-overview/branches/fix-y-tick-labels/protection"
         },
         {
             "name": "master",
@@ -771,38 +771,6 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/query-overview/branches/master/protection"
-        },
-        {
-            "name": "no-extra-columns",
-            "commit": {
-                "sha": "c8d71e3728f0764a78772926507d114d732c462d",
-                "url": "https://api.github.com/repos/RhoInc/query-overview/commits/c8d71e3728f0764a78772926507d114d732c462d"
-            },
-            "protected": false,
-            "protection": {
-                "enabled": false,
-                "required_status_checks": {
-                    "enforcement_level": "off",
-                    "contexts": []
-                }
-            },
-            "protection_url": "https://api.github.com/repos/RhoInc/query-overview/branches/no-extra-columns/protection"
-        },
-        {
-            "name": "protect-y-labels",
-            "commit": {
-                "sha": "e9f0b587d6ea491d447c4b0f945a4c7835ac254c",
-                "url": "https://api.github.com/repos/RhoInc/query-overview/commits/e9f0b587d6ea491d447c4b0f945a4c7835ac254c"
-            },
-            "protected": false,
-            "protection": {
-                "enabled": false,
-                "required_status_checks": {
-                    "enforcement_level": "off",
-                    "contexts": []
-                }
-            },
-            "protection_url": "https://api.github.com/repos/RhoInc/query-overview/branches/protect-y-labels/protection"
         }
     ],
     "r-library": [
@@ -1367,8 +1335,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "973629d94654036364f3ad4d8844452a2b02194b",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/973629d94654036364f3ad4d8844452a2b02194b"
+                "sha": "eefcbee35aa73f4658078861856f2cecb4744f42",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/eefcbee35aa73f4658078861856f2cecb4744f42"
             },
             "protected": true,
             "protection": {
