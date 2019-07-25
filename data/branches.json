@@ -325,6 +325,22 @@
     ],
     "dashboard-charts": [
         {
+            "name": "dev-v0.5.0",
+            "commit": {
+                "sha": "702ddbf21096ff64d4c1eefdac9878a91a2801db",
+                "url": "https://api.github.com/repos/RhoInc/dashboard-charts/commits/702ddbf21096ff64d4c1eefdac9878a91a2801db"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/dashboard-charts/branches/dev-v0.5.0/protection"
+        },
+        {
             "name": "master",
             "commit": {
                 "sha": "d768d583c80d922163ea9ba742d8bc222584fcd2",
@@ -499,8 +515,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "8a28a8067179bec570afc2a79ceeb03e12dd4c9c",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/8a28a8067179bec570afc2a79ceeb03e12dd4c9c"
+                "sha": "4e61f2010623aa26793839980bb59e095fc2aef4",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/4e61f2010623aa26793839980bb59e095fc2aef4"
             },
             "protected": false,
             "protection": {
@@ -1319,8 +1335,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "1e9bc72310397979ea2ca81ba7670f9f3b6995e4",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/1e9bc72310397979ea2ca81ba7670f9f3b6995e4"
+                "sha": "e16b4995cd8c5d0e20e458ecce97b33c4ce650b1",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/e16b4995cd8c5d0e20e458ecce97b33c4ce650b1"
             },
             "protected": true,
             "protection": {
