@@ -327,8 +327,8 @@
         {
             "name": "dev-v0.5.0",
             "commit": {
-                "sha": "70186f25a075993ce86b4b613b4d42084d388d2d",
-                "url": "https://api.github.com/repos/RhoInc/dashboard-charts/commits/70186f25a075993ce86b4b613b4d42084d388d2d"
+                "sha": "aeaddb645a28b165d1d2c09720a653d9795e2888",
+                "url": "https://api.github.com/repos/RhoInc/dashboard-charts/commits/aeaddb645a28b165d1d2c09720a653d9795e2888"
             },
             "protected": false,
             "protection": {
@@ -397,8 +397,8 @@
         {
             "name": "dashboard-data-updates",
             "commit": {
-                "sha": "35e94948dac9009fc4a5bea6d89032db7401eb36",
-                "url": "https://api.github.com/repos/RhoInc/data-library/commits/35e94948dac9009fc4a5bea6d89032db7401eb36"
+                "sha": "3f81a14306f7af0ca4ddc1fdd0082500398b6784",
+                "url": "https://api.github.com/repos/RhoInc/data-library/commits/3f81a14306f7af0ca4ddc1fdd0082500398b6784"
             },
             "protected": false,
             "protection": {
@@ -531,8 +531,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "595b6a9cbe2429f75d508e05fc5add024c771753",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/595b6a9cbe2429f75d508e05fc5add024c771753"
+                "sha": "96072f1b6c9c8b90f8921706cbd279bb5689cddc",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/96072f1b6c9c8b90f8921706cbd279bb5689cddc"
             },
             "protected": false,
             "protection": {
@@ -1335,8 +1335,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "7b9f07651e75bdcffd84891d8d15a90881ba8750",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/7b9f07651e75bdcffd84891d8d15a90881ba8750"
+                "sha": "0a4f18bc4acb95c72588b9d40daf1bd7513d35ef",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/0a4f18bc4acb95c72588b9d40daf1bd7513d35ef"
             },
             "protected": true,
             "protection": {
