@@ -139,8 +139,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "6c1259530db08c7dbef925e51f95c407070f8aeb",
-                "url": "https://api.github.com/repos/RhoInc/blog/commits/6c1259530db08c7dbef925e51f95c407070f8aeb"
+                "sha": "e0b0104171be4008846729f510bf7b420b2f172c",
+                "url": "https://api.github.com/repos/RhoInc/blog/commits/e0b0104171be4008846729f510bf7b420b2f172c"
             },
             "protected": true,
             "protection": {
@@ -155,8 +155,8 @@
         {
             "name": "rtbailey-patch-1",
             "commit": {
-                "sha": "05d37a9b05120cff136a171d5fba63fe5f5af502",
-                "url": "https://api.github.com/repos/RhoInc/blog/commits/05d37a9b05120cff136a171d5fba63fe5f5af502"
+                "sha": "199159307007071bb278bfcd713238521a12809c",
+                "url": "https://api.github.com/repos/RhoInc/blog/commits/199159307007071bb278bfcd713238521a12809c"
             },
             "protected": false,
             "protection": {
@@ -203,6 +203,22 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/CAT/branches/dev-v0.9.4/protection"
+        },
+        {
+            "name": "dev-v0.9.6",
+            "commit": {
+                "sha": "d0a2544f318382a717c64a40c372c63879521aff",
+                "url": "https://api.github.com/repos/RhoInc/CAT/commits/d0a2544f318382a717c64a40c372c63879521aff"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/CAT/branches/dev-v0.9.6/protection"
         },
         {
             "name": "dev-v0.10.0",
@@ -579,8 +595,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "79bff6c5aa4e5034e4a6b9d9f4c874c707b45351",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/79bff6c5aa4e5034e4a6b9d9f4c874c707b45351"
+                "sha": "933ebf496baae3a6105335655c6180555168efd6",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/933ebf496baae3a6105335655c6180555168efd6"
             },
             "protected": false,
             "protection": {
@@ -1543,8 +1559,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "58d039121186216b823d1a4cebc728d932eca878",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/58d039121186216b823d1a4cebc728d932eca878"
+                "sha": "2e76190a52e8141ce31691ac01896a62e8e34db0",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/2e76190a52e8141ce31691ac01896a62e8e34db0"
             },
             "protected": true,
             "protection": {
