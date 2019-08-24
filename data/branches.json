@@ -309,8 +309,8 @@
         {
             "name": "aesthetic-updates",
             "commit": {
-                "sha": "eba420d6d79de35d5562bf35ece99c982ac55262",
-                "url": "https://api.github.com/repos/RhoInc/crf-heat-map/commits/eba420d6d79de35d5562bf35ece99c982ac55262"
+                "sha": "12424f218262676913b6271d30c6aff1c74e2c6a",
+                "url": "https://api.github.com/repos/RhoInc/crf-heat-map/commits/12424f218262676913b6271d30c6aff1c74e2c6a"
             },
             "protected": false,
             "protection": {
@@ -353,6 +353,22 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/crf-heat-map/branches/dev-v1.4.0/protection"
+        },
+        {
+            "name": "fix-export",
+            "commit": {
+                "sha": "89979c550f01d17d2e7a89e4d51bb2694df449e4",
+                "url": "https://api.github.com/repos/RhoInc/crf-heat-map/commits/89979c550f01d17d2e7a89e4d51bb2694df449e4"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/crf-heat-map/branches/fix-export/protection"
         },
         {
             "name": "fix-filter-logic",
@@ -461,8 +477,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "9010ebb3f26d13324cd91699a7d378e2f8f39fac",
-                "url": "https://api.github.com/repos/RhoInc/data-library/commits/9010ebb3f26d13324cd91699a7d378e2f8f39fac"
+                "sha": "a8f3a6c3a031554d83f912d97fd62fc04cee671e",
+                "url": "https://api.github.com/repos/RhoInc/data-library/commits/a8f3a6c3a031554d83f912d97fd62fc04cee671e"
             },
             "protected": false,
             "protection": {
@@ -579,8 +595,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "e4847c395ea6ab39ad66e0070b91e2b3a40230d6",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/e4847c395ea6ab39ad66e0070b91e2b3a40230d6"
+                "sha": "5fdaa489660b079f9d304a5b7ce14bf4d76e7fb4",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/5fdaa489660b079f9d304a5b7ce14bf4d76e7fb4"
             },
             "protected": false,
             "protection": {
@@ -733,6 +749,54 @@
     ],
     "participant-visit-listing": [
         {
+            "name": "dev-v1.5.0",
+            "commit": {
+                "sha": "5578f90bd22e9c7eb6216eb1e77bb7db6fa8759e",
+                "url": "https://api.github.com/repos/RhoInc/participant-visit-listing/commits/5578f90bd22e9c7eb6216eb1e77bb7db6fa8759e"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/participant-visit-listing/branches/dev-v1.5.0/protection"
+        },
+        {
+            "name": "extend-clip-path",
+            "commit": {
+                "sha": "a6f171bc9dee294903f0d52dff6547d14bd43881",
+                "url": "https://api.github.com/repos/RhoInc/participant-visit-listing/commits/a6f171bc9dee294903f0d52dff6547d14bd43881"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/participant-visit-listing/branches/extend-clip-path/protection"
+        },
+        {
+            "name": "fix-expectation-legend",
+            "commit": {
+                "sha": "9fe9a2b4d27b7243cb6becc948b00ab32a999a84",
+                "url": "https://api.github.com/repos/RhoInc/participant-visit-listing/commits/9fe9a2b4d27b7243cb6becc948b00ab32a999a84"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/participant-visit-listing/branches/fix-expectation-legend/protection"
+        },
+        {
             "name": "master",
             "commit": {
                 "sha": "171836e7b1ab7277a6b4376b0ce6f8081449a393",
@@ -747,6 +811,22 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/participant-visit-listing/branches/master/protection"
+        },
+        {
+            "name": "reset-button",
+            "commit": {
+                "sha": "996beb46f0a956463ca000dafe6dd9ae5e42f327",
+                "url": "https://api.github.com/repos/RhoInc/participant-visit-listing/commits/996beb46f0a956463ca000dafe6dd9ae5e42f327"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/participant-visit-listing/branches/reset-button/protection"
         }
     ],
     "PopulationExplorer": [
@@ -1463,8 +1543,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "6ea9f2a438fb17ee2e9fca6044d32d068b081907",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/6ea9f2a438fb17ee2e9fca6044d32d068b081907"
+                "sha": "330f61bdd6c0b59894372dfe4d37a489227ac1f7",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/330f61bdd6c0b59894372dfe4d37a489227ac1f7"
             },
             "protected": true,
             "protection": {
