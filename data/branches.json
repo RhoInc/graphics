@@ -563,8 +563,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "d8f7d7ce1c87d7422b5126f1233639c7b66621af",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/d8f7d7ce1c87d7422b5126f1233639c7b66621af"
+                "sha": "7487b565f05412d2a816b49f12e42de7453412c6",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/7487b565f05412d2a816b49f12e42de7453412c6"
             },
             "protected": false,
             "protection": {
@@ -783,8 +783,8 @@
         {
             "name": "reset-button",
             "commit": {
-                "sha": "e315cbcd631fb13f1fd7e5f382ea5418e7d0acd6",
-                "url": "https://api.github.com/repos/RhoInc/participant-visit-listing/commits/e315cbcd631fb13f1fd7e5f382ea5418e7d0acd6"
+                "sha": "635b6ab883dc4dc0891526e42afd4ea60e9350b0",
+                "url": "https://api.github.com/repos/RhoInc/participant-visit-listing/commits/635b6ab883dc4dc0891526e42afd4ea60e9350b0"
             },
             "protected": false,
             "protection": {
@@ -835,8 +835,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "1de594e317759c7fd50cd1c28bcf8a17f72c6495",
-                "url": "https://api.github.com/repos/RhoInc/publication-library/commits/1de594e317759c7fd50cd1c28bcf8a17f72c6495"
+                "sha": "ad3ecc6c2315e704cf36398f91fb8f2af4978425",
+                "url": "https://api.github.com/repos/RhoInc/publication-library/commits/ad3ecc6c2315e704cf36398f91fb8f2af4978425"
             },
             "protected": false,
             "protection": {
@@ -847,6 +847,22 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/publication-library/branches/master/protection"
+        },
+        {
+            "name": "new-pubs",
+            "commit": {
+                "sha": "9deedb9bd0fb4c3904afde86773efcede456fbe8",
+                "url": "https://api.github.com/repos/RhoInc/publication-library/commits/9deedb9bd0fb4c3904afde86773efcede456fbe8"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/publication-library/branches/new-pubs/protection"
         }
     ],
     "query-overview": [
@@ -1511,8 +1527,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "74df3d424dad005f852f75574f87110eaf91500d",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/74df3d424dad005f852f75574f87110eaf91500d"
+                "sha": "0884e04873be8fe84f0bfce263d9e332a4732e55",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/0884e04873be8fe84f0bfce263d9e332a4732e55"
             },
             "protected": true,
             "protection": {
