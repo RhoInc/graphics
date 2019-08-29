@@ -339,6 +339,22 @@
             "protection_url": "https://api.github.com/repos/RhoInc/crf-heat-map/branches/dev-v1.4.0/protection"
         },
         {
+            "name": "fix-config-md",
+            "commit": {
+                "sha": "f7648d63a5c0ecc91adc27b72d518fc91ce049d8",
+                "url": "https://api.github.com/repos/RhoInc/crf-heat-map/commits/f7648d63a5c0ecc91adc27b72d518fc91ce049d8"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/crf-heat-map/branches/fix-config-md/protection"
+        },
+        {
             "name": "fix-export",
             "commit": {
                 "sha": "8fe27144dcb47272cde2eecbecb5042e711a9402",
@@ -563,8 +579,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "7487b565f05412d2a816b49f12e42de7453412c6",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/7487b565f05412d2a816b49f12e42de7453412c6"
+                "sha": "1d8692016b7c5613673e107c0bbcdf10481f404c",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/1d8692016b7c5613673e107c0bbcdf10481f404c"
             },
             "protected": false,
             "protection": {
@@ -783,8 +799,8 @@
         {
             "name": "reset-button",
             "commit": {
-                "sha": "635b6ab883dc4dc0891526e42afd4ea60e9350b0",
-                "url": "https://api.github.com/repos/RhoInc/participant-visit-listing/commits/635b6ab883dc4dc0891526e42afd4ea60e9350b0"
+                "sha": "1ea077a6d5d3f573954f867d7fef950e0716b8ca",
+                "url": "https://api.github.com/repos/RhoInc/participant-visit-listing/commits/1ea077a6d5d3f573954f867d7fef950e0716b8ca"
             },
             "protected": false,
             "protection": {
@@ -917,6 +933,22 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/r-library/branches/dependabot/npm_and_yarn/lodash-4.17.14/protection"
+        },
+        {
+            "name": "dependabot/npm_and_yarn/mixin-deep-1.3.2",
+            "commit": {
+                "sha": "1b18b1432dde31c2ec66da37ee9ef32412e30098",
+                "url": "https://api.github.com/repos/RhoInc/r-library/commits/1b18b1432dde31c2ec66da37ee9ef32412e30098"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/r-library/branches/dependabot/npm_and_yarn/mixin-deep-1.3.2/protection"
         },
         {
             "name": "master",
@@ -1527,8 +1559,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "0884e04873be8fe84f0bfce263d9e332a4732e55",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/0884e04873be8fe84f0bfce263d9e332a4732e55"
+                "sha": "4150adc896189dcf6c611f662206c7bb79cf649c",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/4150adc896189dcf6c611f662206c7bb79cf649c"
             },
             "protected": true,
             "protection": {
