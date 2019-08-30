@@ -341,8 +341,8 @@
         {
             "name": "fix-config-md",
             "commit": {
-                "sha": "f7648d63a5c0ecc91adc27b72d518fc91ce049d8",
-                "url": "https://api.github.com/repos/RhoInc/crf-heat-map/commits/f7648d63a5c0ecc91adc27b72d518fc91ce049d8"
+                "sha": "9cbf73a8c1e743407f7bdf225a553c56da1c53b8",
+                "url": "https://api.github.com/repos/RhoInc/crf-heat-map/commits/9cbf73a8c1e743407f7bdf225a553c56da1c53b8"
             },
             "protected": false,
             "protection": {
@@ -579,8 +579,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "1d8692016b7c5613673e107c0bbcdf10481f404c",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/1d8692016b7c5613673e107c0bbcdf10481f404c"
+                "sha": "91807506c82c835c2be57c74fc58cd40f538f763",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/91807506c82c835c2be57c74fc58cd40f538f763"
             },
             "protected": false,
             "protection": {
@@ -1559,8 +1559,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "4150adc896189dcf6c611f662206c7bb79cf649c",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/4150adc896189dcf6c611f662206c7bb79cf649c"
+                "sha": "9950cf7219ea4f2a25b64a72fc06843e09316770",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/9950cf7219ea4f2a25b64a72fc06843e09316770"
             },
             "protected": true,
             "protection": {
