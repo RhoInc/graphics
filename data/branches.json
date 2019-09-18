@@ -339,6 +339,22 @@
             "protection_url": "https://api.github.com/repos/RhoInc/crf-heat-map/branches/dev-v2.1.0/protection"
         },
         {
+            "name": "heatmap-style-excel",
+            "commit": {
+                "sha": "fbc48dd28d01cbe3f6fb88adb4a2197141eb4147",
+                "url": "https://api.github.com/repos/RhoInc/crf-heat-map/commits/fbc48dd28d01cbe3f6fb88adb4a2197141eb4147"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/crf-heat-map/branches/heatmap-style-excel/protection"
+        },
+        {
             "name": "master",
             "commit": {
                 "sha": "117ac028cbed8e392990650c4dd083e9d4cf5918",
@@ -547,8 +563,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "9a0fda52b8535edd53924a58649f9f0c5a703973",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/9a0fda52b8535edd53924a58649f9f0c5a703973"
+                "sha": "6be145a82e02f4deaeaf374377166594011ab764",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/6be145a82e02f4deaeaf374377166594011ab764"
             },
             "protected": false,
             "protection": {
@@ -1497,8 +1513,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "f7bb107e51020487abe7eae77d491a95b33bf4e3",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/f7bb107e51020487abe7eae77d491a95b33bf4e3"
+                "sha": "bc8698ca85b8e1f6cb2ca25eb46db0c7efdb67f7",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/bc8698ca85b8e1f6cb2ca25eb46db0c7efdb67f7"
             },
             "protected": true,
             "protection": {
