@@ -341,8 +341,8 @@
         {
             "name": "heatmap-style-excel",
             "commit": {
-                "sha": "fbc48dd28d01cbe3f6fb88adb4a2197141eb4147",
-                "url": "https://api.github.com/repos/RhoInc/crf-heat-map/commits/fbc48dd28d01cbe3f6fb88adb4a2197141eb4147"
+                "sha": "03b0b90c92c7966b18a4e1ad6b8df86e0d52af64",
+                "url": "https://api.github.com/repos/RhoInc/crf-heat-map/commits/03b0b90c92c7966b18a4e1ad6b8df86e0d52af64"
             },
             "protected": false,
             "protection": {
@@ -563,8 +563,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "6be145a82e02f4deaeaf374377166594011ab764",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/6be145a82e02f4deaeaf374377166594011ab764"
+                "sha": "07d420b61d07e6ca6d30b715542381aa39d69c41",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/07d420b61d07e6ca6d30b715542381aa39d69c41"
             },
             "protected": false,
             "protection": {
@@ -1513,8 +1513,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "bc8698ca85b8e1f6cb2ca25eb46db0c7efdb67f7",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/bc8698ca85b8e1f6cb2ca25eb46db0c7efdb67f7"
+                "sha": "974f3b49e6b3556f634d5ed02c8c74c86172d55a",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/974f3b49e6b3556f634d5ed02c8c74c86172d55a"
             },
             "protected": true,
             "protection": {
