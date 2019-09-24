@@ -139,8 +139,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "e0b0104171be4008846729f510bf7b420b2f172c",
-                "url": "https://api.github.com/repos/RhoInc/blog/commits/e0b0104171be4008846729f510bf7b420b2f172c"
+                "sha": "6a8b7c0ab0df63b6aff65ea43cb38a05c74caefa",
+                "url": "https://api.github.com/repos/RhoInc/blog/commits/6a8b7c0ab0df63b6aff65ea43cb38a05c74caefa"
             },
             "protected": true,
             "protection": {
@@ -151,6 +151,22 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/blog/branches/master/protection"
+        },
+        {
+            "name": "no-scrollbars",
+            "commit": {
+                "sha": "ace248decee8e214dcf3a3facde861ca410fead2",
+                "url": "https://api.github.com/repos/RhoInc/blog/commits/ace248decee8e214dcf3a3facde861ca410fead2"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/blog/branches/no-scrollbars/protection"
         },
         {
             "name": "rtbailey-patch-1",
@@ -167,22 +183,6 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/blog/branches/rtbailey-patch-1/protection"
-        },
-        {
-            "name": "textmining-AAI-post",
-            "commit": {
-                "sha": "7f36aac271906c0dd7c1edc8a0abbba8b8e6b068",
-                "url": "https://api.github.com/repos/RhoInc/blog/commits/7f36aac271906c0dd7c1edc8a0abbba8b8e6b068"
-            },
-            "protected": false,
-            "protection": {
-                "enabled": false,
-                "required_status_checks": {
-                    "enforcement_level": "off",
-                    "contexts": []
-                }
-            },
-            "protection_url": "https://api.github.com/repos/RhoInc/blog/branches/textmining-AAI-post/protection"
         }
     ],
     "CASI_MID": [
@@ -323,6 +323,22 @@
     ],
     "crf-heat-map": [
         {
+            "name": "add-heatmap-styling",
+            "commit": {
+                "sha": "11c045e9cb5354402ec41d0cfdd9db6a89e721dd",
+                "url": "https://api.github.com/repos/RhoInc/crf-heat-map/commits/11c045e9cb5354402ec41d0cfdd9db6a89e721dd"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/crf-heat-map/branches/add-heatmap-styling/protection"
+        },
+        {
             "name": "dev-v2.1.0",
             "commit": {
                 "sha": "c7a8fac04e81719e818f63a073a928ad68eb5197",
@@ -341,8 +357,8 @@
         {
             "name": "heatmap-style-excel",
             "commit": {
-                "sha": "5d62905dcd9cb5cc0957d765065cfb406131b227",
-                "url": "https://api.github.com/repos/RhoInc/crf-heat-map/commits/5d62905dcd9cb5cc0957d765065cfb406131b227"
+                "sha": "cb59d441b42467febdeb0e2643f16f26a47c4fa0",
+                "url": "https://api.github.com/repos/RhoInc/crf-heat-map/commits/cb59d441b42467febdeb0e2643f16f26a47c4fa0"
             },
             "protected": false,
             "protection": {
@@ -563,8 +579,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "7aad2422fd04a67777c47d7fcc7e07ff8643faa9",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/7aad2422fd04a67777c47d7fcc7e07ff8643faa9"
+                "sha": "0cc098427f40465f340f05543b89a2c22757be4f",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/0cc098427f40465f340f05543b89a2c22757be4f"
             },
             "protected": false,
             "protection": {
@@ -1127,8 +1143,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "4ad8e34e34063e99c14052ca4c1dbc24f71c2ea9",
-                "url": "https://api.github.com/repos/RhoInc/safetyexploreR/commits/4ad8e34e34063e99c14052ca4c1dbc24f71c2ea9"
+                "sha": "e408e43bd9c070474d94e53670ea8af9163b6606",
+                "url": "https://api.github.com/repos/RhoInc/safetyexploreR/commits/e408e43bd9c070474d94e53670ea8af9163b6606"
             },
             "protected": false,
             "protection": {
@@ -1463,8 +1479,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "d6fb4b7e4afe8f00e095ad70982d2eb8e8e92b5c",
-                "url": "https://api.github.com/repos/RhoInc/study-overview/commits/d6fb4b7e4afe8f00e095ad70982d2eb8e8e92b5c"
+                "sha": "cd321b2bb38034ef63e0808b8e0ffd89143463c6",
+                "url": "https://api.github.com/repos/RhoInc/study-overview/commits/cd321b2bb38034ef63e0808b8e0ffd89143463c6"
             },
             "protected": false,
             "protection": {
@@ -1481,8 +1497,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "fc6dfd4a8c4fb760a069e1cbb1f4ce1558ab47cd",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/fc6dfd4a8c4fb760a069e1cbb1f4ce1558ab47cd"
+                "sha": "9b5e1269cb2e89164d0b19305cf44d23af561b35",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/9b5e1269cb2e89164d0b19305cf44d23af561b35"
             },
             "protected": true,
             "protection": {
