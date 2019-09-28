@@ -579,8 +579,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "e1d2cf9198b9166371b7cc07f5cac9e0a0363ed8",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/e1d2cf9198b9166371b7cc07f5cac9e0a0363ed8"
+                "sha": "f2df8cc457f9c89e709239369fd906252209f61c",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/f2df8cc457f9c89e709239369fd906252209f61c"
             },
             "protected": false,
             "protection": {
@@ -919,6 +919,24 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/RStudioConf2019-ePoster/branches/master/protection"
+        }
+    ],
+    "safety-delta-delta": [
+        {
+            "name": "master",
+            "commit": {
+                "sha": "7bf7f9c9a1b03e33eacd13d204a52365aea64147",
+                "url": "https://api.github.com/repos/RhoInc/safety-delta-delta/commits/7bf7f9c9a1b03e33eacd13d204a52365aea64147"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/safety-delta-delta/branches/master/protection"
         }
     ],
     "safety-explorer-suite": [
@@ -1497,8 +1515,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "31d90d2423163c4b64ca1969ac959266c6bb6fff",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/31d90d2423163c4b64ca1969ac959266c6bb6fff"
+                "sha": "20537ff0ecd533ab883e71cccfae6e84e76206f5",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/20537ff0ecd533ab883e71cccfae6e84e76206f5"
             },
             "protected": true,
             "protection": {
