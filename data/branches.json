@@ -579,8 +579,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "e76863f73da6809b9c9de21655c96179d5d09ddf",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/e76863f73da6809b9c9de21655c96179d5d09ddf"
+                "sha": "fa1ac73cf1ce13c146b32b988ba34587eec29a1a",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/fa1ac73cf1ce13c146b32b988ba34587eec29a1a"
             },
             "protected": false,
             "protection": {
@@ -925,8 +925,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "464e3bedafc1b18fe094d26d1d1d5fc9c67fce76",
-                "url": "https://api.github.com/repos/RhoInc/safety-delta-delta/commits/464e3bedafc1b18fe094d26d1d1d5fc9c67fce76"
+                "sha": "d530a4d678b9199fd656596ed0f6036e7a4abea9",
+                "url": "https://api.github.com/repos/RhoInc/safety-delta-delta/commits/d530a4d678b9199fd656596ed0f6036e7a4abea9"
             },
             "protected": false,
             "protection": {
@@ -1515,8 +1515,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "e9c699605a7b6c78810f835640d65321f85becc5",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/e9c699605a7b6c78810f835640d65321f85becc5"
+                "sha": "0f669f6a7cdbf3c642c9d57121ea805f9b79f505",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/0f669f6a7cdbf3c642c9d57121ea805f9b79f505"
             },
             "protected": true,
             "protection": {
