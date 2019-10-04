@@ -579,8 +579,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "b4589ebef5f34ca5b8b4353e52e91ed85cb0dcf4",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/b4589ebef5f34ca5b8b4353e52e91ed85cb0dcf4"
+                "sha": "ea74b9c6cb58923ffac3c5687f969fc76a394a35",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/ea74b9c6cb58923ffac3c5687f969fc76a394a35"
             },
             "protected": false,
             "protection": {
@@ -1531,8 +1531,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "90d342926e9748319071988eac3f8596432451f1",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/90d342926e9748319071988eac3f8596432451f1"
+                "sha": "1cad0d920067109a0c38520dac3f0131d2a3cc50",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/1cad0d920067109a0c38520dac3f0131d2a3cc50"
             },
             "protected": true,
             "protection": {
