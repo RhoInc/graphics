@@ -325,8 +325,8 @@
         {
             "name": "add-heatmap-styling",
             "commit": {
-                "sha": "d52de3654b80d73d1d681b9cbfde1601e8151f83",
-                "url": "https://api.github.com/repos/RhoInc/crf-heat-map/commits/d52de3654b80d73d1d681b9cbfde1601e8151f83"
+                "sha": "aa05ef1a704717a26bf3723efa298c23ecd53c87",
+                "url": "https://api.github.com/repos/RhoInc/crf-heat-map/commits/aa05ef1a704717a26bf3723efa298c23ecd53c87"
             },
             "protected": false,
             "protection": {
@@ -579,8 +579,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "179bcdc10b9664922e35152aa496c19f8549589e",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/179bcdc10b9664922e35152aa496c19f8549589e"
+                "sha": "c63332d808baa8d371a8bb4b97511afaf28f1493",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/c63332d808baa8d371a8bb4b97511afaf28f1493"
             },
             "protected": false,
             "protection": {
@@ -1529,8 +1529,8 @@
         {
             "name": "col-wise",
             "commit": {
-                "sha": "4892bf1b3518411d00fad3df1a1de14f4a1f6933",
-                "url": "https://api.github.com/repos/RhoInc/study-overview/commits/4892bf1b3518411d00fad3df1a1de14f4a1f6933"
+                "sha": "001daa08c632a1990173d3f2cbe1a3d4470f6a81",
+                "url": "https://api.github.com/repos/RhoInc/study-overview/commits/001daa08c632a1990173d3f2cbe1a3d4470f6a81"
             },
             "protected": false,
             "protection": {
@@ -1563,8 +1563,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "0718bf73e4c27c4c7500b3fa8e126fafef3c7585",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/0718bf73e4c27c4c7500b3fa8e126fafef3c7585"
+                "sha": "fa9a2c83370ae7bfabadd8f2a398f2b74815e628",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/fa9a2c83370ae7bfabadd8f2a398f2b74815e628"
             },
             "protected": true,
             "protection": {
