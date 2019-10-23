@@ -595,8 +595,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "e6dc07cd8359015c4a2e5ae27136dff9ad251ebc",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/e6dc07cd8359015c4a2e5ae27136dff9ad251ebc"
+                "sha": "898fc4ce9542f28363fa8fd705c93a7cdbf790e1",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/898fc4ce9542f28363fa8fd705c93a7cdbf790e1"
             },
             "protected": false,
             "protection": {
@@ -917,6 +917,24 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/r-library/branches/master/protection"
+        }
+    ],
+    "repo-dashboard": [
+        {
+            "name": "master",
+            "commit": {
+                "sha": "1297061e5b188c555e78f97f4f9b69addab6cd8c",
+                "url": "https://api.github.com/repos/RhoInc/repo-dashboard/commits/1297061e5b188c555e78f97f4f9b69addab6cd8c"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/repo-dashboard/branches/master/protection"
         }
     ],
     "RStudioConf2019-ePoster": [
@@ -1545,8 +1563,8 @@
         {
             "name": "col-wise",
             "commit": {
-                "sha": "6d24c0dc140591c1cf49f5ba678afc4c2b3a1d83",
-                "url": "https://api.github.com/repos/RhoInc/study-overview/commits/6d24c0dc140591c1cf49f5ba678afc4c2b3a1d83"
+                "sha": "9fa5f3a8709c404c0057a07d7919bebc810023ce",
+                "url": "https://api.github.com/repos/RhoInc/study-overview/commits/9fa5f3a8709c404c0057a07d7919bebc810023ce"
             },
             "protected": false,
             "protection": {
@@ -1579,8 +1597,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "da3ebb4c317ad06cfc39378386132ec00c541bf0",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/da3ebb4c317ad06cfc39378386132ec00c541bf0"
+                "sha": "a0e3a71a3a64c2bee1b9ebf5d24072434b75075d",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/a0e3a71a3a64c2bee1b9ebf5d24072434b75075d"
             },
             "protected": true,
             "protection": {
