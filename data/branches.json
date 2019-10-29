@@ -341,8 +341,8 @@
         {
             "name": "add-automated-export",
             "commit": {
-                "sha": "9262cd26ccf71b9e51cd01c38894009235b0b5b8",
-                "url": "https://api.github.com/repos/RhoInc/crf-heat-map/commits/9262cd26ccf71b9e51cd01c38894009235b0b5b8"
+                "sha": "ffacd1b244db763cfe5382d69bb6bac4aa178812",
+                "url": "https://api.github.com/repos/RhoInc/crf-heat-map/commits/ffacd1b244db763cfe5382d69bb6bac4aa178812"
             },
             "protected": false,
             "protection": {
@@ -611,8 +611,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "daa028655f4eb1c984510112d8c5ed3a3c8dcf78",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/daa028655f4eb1c984510112d8c5ed3a3c8dcf78"
+                "sha": "d5e8ede716e6330aa08c007c0e4291b7f9711830",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/d5e8ede716e6330aa08c007c0e4291b7f9711830"
             },
             "protected": false,
             "protection": {
@@ -1661,8 +1661,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "60b71f93b64324fee60457c6e5b28bbdbfa77182",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/60b71f93b64324fee60457c6e5b28bbdbfa77182"
+                "sha": "9ebafe420310db38f9150fca95aa4bd8c0b25c62",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/9ebafe420310db38f9150fca95aa4bd8c0b25c62"
             },
             "protected": true,
             "protection": {
