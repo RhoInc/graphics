@@ -389,8 +389,8 @@
         {
             "name": "update-report",
             "commit": {
-                "sha": "2aa7b619146f99224b2254c0ba346693a8609862",
-                "url": "https://api.github.com/repos/RhoInc/crf-heat-map/commits/2aa7b619146f99224b2254c0ba346693a8609862"
+                "sha": "a5ce94e62ec1390e43f248712882b270bbc6f87e",
+                "url": "https://api.github.com/repos/RhoInc/crf-heat-map/commits/a5ce94e62ec1390e43f248712882b270bbc6f87e"
             },
             "protected": false,
             "protection": {
@@ -579,8 +579,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "af45a5f6fc9dfdd3a164f8767bef93bb0038056d",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/af45a5f6fc9dfdd3a164f8767bef93bb0038056d"
+                "sha": "291fbb5be0f584763f7d1890f857c06cdb9c8926",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/291fbb5be0f584763f7d1890f857c06cdb9c8926"
             },
             "protected": false,
             "protection": {
@@ -1193,10 +1193,10 @@
             "protection_url": "https://api.github.com/repos/RhoInc/safetyexploreR/branches/branch-test/protection"
         },
         {
-            "name": "dev_v0.4.0",
+            "name": "dev-v0.4.0",
             "commit": {
-                "sha": "8712d2526b8ce9198eccfdcc5586ef67eab954c2",
-                "url": "https://api.github.com/repos/RhoInc/safetyexploreR/commits/8712d2526b8ce9198eccfdcc5586ef67eab954c2"
+                "sha": "d989ef79c5ec4c8992e4b08cc218b61d19d4aea9",
+                "url": "https://api.github.com/repos/RhoInc/safetyexploreR/commits/d989ef79c5ec4c8992e4b08cc218b61d19d4aea9"
             },
             "protected": false,
             "protection": {
@@ -1206,13 +1206,13 @@
                     "contexts": []
                 }
             },
-            "protection_url": "https://api.github.com/repos/RhoInc/safetyexploreR/branches/dev_v0.4.0/protection"
+            "protection_url": "https://api.github.com/repos/RhoInc/safetyexploreR/branches/dev-v0.4.0/protection"
         },
         {
             "name": "master",
             "commit": {
-                "sha": "e408e43bd9c070474d94e53670ea8af9163b6606",
-                "url": "https://api.github.com/repos/RhoInc/safetyexploreR/commits/e408e43bd9c070474d94e53670ea8af9163b6606"
+                "sha": "527dd3185989b2ab179d19b1e491861732dd2f2d",
+                "url": "https://api.github.com/repos/RhoInc/safetyexploreR/commits/527dd3185989b2ab179d19b1e491861732dd2f2d"
             },
             "protected": false,
             "protection": {
@@ -1581,8 +1581,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "e68f6060a8428817477478501a5e5ce9c3977974",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/e68f6060a8428817477478501a5e5ce9c3977974"
+                "sha": "7060e49ddc4dd62875d3a93a2b33e766a428d883",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/7060e49ddc4dd62875d3a93a2b33e766a428d883"
             },
             "protected": true,
             "protection": {
