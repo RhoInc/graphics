@@ -341,8 +341,8 @@
         {
             "name": "dev-v2.1.0",
             "commit": {
-                "sha": "44019a769b557f01334bef845108f21ccde6a15b",
-                "url": "https://api.github.com/repos/RhoInc/crf-heat-map/commits/44019a769b557f01334bef845108f21ccde6a15b"
+                "sha": "1379acfd1934eb9148bd06157be145800fc87cae",
+                "url": "https://api.github.com/repos/RhoInc/crf-heat-map/commits/1379acfd1934eb9148bd06157be145800fc87cae"
             },
             "protected": false,
             "protection": {
@@ -385,22 +385,6 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/crf-heat-map/branches/test-bubble/protection"
-        },
-        {
-            "name": "update-report",
-            "commit": {
-                "sha": "70394be6eaaa4a60869dc9f6eccd3b6e96f938eb",
-                "url": "https://api.github.com/repos/RhoInc/crf-heat-map/commits/70394be6eaaa4a60869dc9f6eccd3b6e96f938eb"
-            },
-            "protected": false,
-            "protection": {
-                "enabled": false,
-                "required_status_checks": {
-                    "enforcement_level": "off",
-                    "contexts": []
-                }
-            },
-            "protection_url": "https://api.github.com/repos/RhoInc/crf-heat-map/branches/update-report/protection"
         }
     ],
     "dashboard-charts": [
@@ -595,8 +579,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "9f8b743a9f3eb470536ca77403c455216ac9c2c1",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/9f8b743a9f3eb470536ca77403c455216ac9c2c1"
+                "sha": "8d2aa961d7ddb769ea94cb9b362cefd28a82458c",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/8d2aa961d7ddb769ea94cb9b362cefd28a82458c"
             },
             "protected": false,
             "protection": {
@@ -1597,8 +1581,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "50c0277ce6a884d91af268490b5d8a6f38ee1a19",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/50c0277ce6a884d91af268490b5d8a6f38ee1a19"
+                "sha": "9f32a1ec09ecb9d9eac63bf39adb1a692e592a16",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/9f32a1ec09ecb9d9eac63bf39adb1a692e592a16"
             },
             "protected": true,
             "protection": {
