@@ -1,38 +1,6 @@
 {
     "ae-timelines": [
         {
-            "name": "addCustomEvent",
-            "commit": {
-                "sha": "d734170575a1a4d190fbdb2bc2ce5bcec0a0c6c9",
-                "url": "https://api.github.com/repos/RhoInc/ae-timelines/commits/d734170575a1a4d190fbdb2bc2ce5bcec0a0c6c9"
-            },
-            "protected": false,
-            "protection": {
-                "enabled": false,
-                "required_status_checks": {
-                    "enforcement_level": "off",
-                    "contexts": []
-                }
-            },
-            "protection_url": "https://api.github.com/repos/RhoInc/ae-timelines/branches/addCustomEvent/protection"
-        },
-        {
-            "name": "dev-v2.1.6",
-            "commit": {
-                "sha": "f5654a52f6c7d5ff5c10c33fe5d011cbe7279561",
-                "url": "https://api.github.com/repos/RhoInc/ae-timelines/commits/f5654a52f6c7d5ff5c10c33fe5d011cbe7279561"
-            },
-            "protected": false,
-            "protection": {
-                "enabled": false,
-                "required_status_checks": {
-                    "enforcement_level": "off",
-                    "contexts": []
-                }
-            },
-            "protection_url": "https://api.github.com/repos/RhoInc/ae-timelines/branches/dev-v2.1.6/protection"
-        },
-        {
             "name": "master",
             "commit": {
                 "sha": "b86f336ad1978f755c3bb0a1ab9bb1ae136983a3",
@@ -235,6 +203,22 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/CAT/branches/master/protection"
+        },
+        {
+            "name": "v0.10.0-dev",
+            "commit": {
+                "sha": "ce3e4abc7a379904ec34ac38a55a574a5166447c",
+                "url": "https://api.github.com/repos/RhoInc/CAT/commits/ce3e4abc7a379904ec34ac38a55a574a5166447c"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/CAT/branches/v0.10.0-dev/protection"
         }
     ],
     "clinical-timelines": [
@@ -563,8 +547,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "09742a006e5ad428e94d13aa3eafe40a24091fed",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/09742a006e5ad428e94d13aa3eafe40a24091fed"
+                "sha": "c9abe9d965539437cf5f04c2a92cbeb27177bf56",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/c9abe9d965539437cf5f04c2a92cbeb27177bf56"
             },
             "protected": false,
             "protection": {
@@ -955,22 +939,6 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/safety-delta-delta/branches/master/protection"
-        },
-        {
-            "name": "spencer-tweaks",
-            "commit": {
-                "sha": "8f0b53da2aa1d71c422a917d64500bdea31de173",
-                "url": "https://api.github.com/repos/RhoInc/safety-delta-delta/commits/8f0b53da2aa1d71c422a917d64500bdea31de173"
-            },
-            "protected": false,
-            "protection": {
-                "enabled": false,
-                "required_status_checks": {
-                    "enforcement_level": "off",
-                    "contexts": []
-                }
-            },
-            "protection_url": "https://api.github.com/repos/RhoInc/safety-delta-delta/branches/spencer-tweaks/protection"
         }
     ],
     "safety-explorer-suite": [
@@ -1011,8 +979,8 @@
         {
             "name": "group-comparisons",
             "commit": {
-                "sha": "329a9b321df71c8ee2b204457559af76a10ad940",
-                "url": "https://api.github.com/repos/RhoInc/safety-histogram/commits/329a9b321df71c8ee2b204457559af76a10ad940"
+                "sha": "cd6e9d61d14f0b67ee3f51c79c3a44fee836ee6a",
+                "url": "https://api.github.com/repos/RhoInc/safety-histogram/commits/cd6e9d61d14f0b67ee3f51c79c3a44fee836ee6a"
             },
             "protected": false,
             "protection": {
@@ -1565,8 +1533,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "13104f6f416e23ab783a5bf96fb6c96be52418bc",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/13104f6f416e23ab783a5bf96fb6c96be52418bc"
+                "sha": "31bd5c6bf105742c153245cd64aa6438960e2d6e",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/31bd5c6bf105742c153245cd64aa6438960e2d6e"
             },
             "protected": true,
             "protection": {
