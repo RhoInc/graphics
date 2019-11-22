@@ -189,6 +189,22 @@
             "protection_url": "https://api.github.com/repos/RhoInc/CAT/branches/dev-v0.10.0/protection"
         },
         {
+            "name": "dev-v1.0.0",
+            "commit": {
+                "sha": "1d1fd0a0200dfa8f714548462fc9c9a9c6dbdb51",
+                "url": "https://api.github.com/repos/RhoInc/CAT/commits/1d1fd0a0200dfa8f714548462fc9c9a9c6dbdb51"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/CAT/branches/dev-v1.0.0/protection"
+        },
+        {
             "name": "master",
             "commit": {
                 "sha": "8c0da4bd304f8c5d6ab0824b85849434f1b1869a",
@@ -205,10 +221,10 @@
             "protection_url": "https://api.github.com/repos/RhoInc/CAT/branches/master/protection"
         },
         {
-            "name": "v0.10.0-dev",
+            "name": "url-refactor",
             "commit": {
-                "sha": "ce3e4abc7a379904ec34ac38a55a574a5166447c",
-                "url": "https://api.github.com/repos/RhoInc/CAT/commits/ce3e4abc7a379904ec34ac38a55a574a5166447c"
+                "sha": "90d02f8172087ef5655ab07f0e01dae2407663a3",
+                "url": "https://api.github.com/repos/RhoInc/CAT/commits/90d02f8172087ef5655ab07f0e01dae2407663a3"
             },
             "protected": false,
             "protection": {
@@ -218,7 +234,7 @@
                     "contexts": []
                 }
             },
-            "protection_url": "https://api.github.com/repos/RhoInc/CAT/branches/v0.10.0-dev/protection"
+            "protection_url": "https://api.github.com/repos/RhoInc/CAT/branches/url-refactor/protection"
         }
     ],
     "clinical-timelines": [
@@ -547,8 +563,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "c9abe9d965539437cf5f04c2a92cbeb27177bf56",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/c9abe9d965539437cf5f04c2a92cbeb27177bf56"
+                "sha": "4b20385c1718316672c2aa9cfb078b9eed6bba5f",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/4b20385c1718316672c2aa9cfb078b9eed6bba5f"
             },
             "protected": false,
             "protection": {
@@ -911,8 +927,8 @@
         {
             "name": "dev-v1.0.0",
             "commit": {
-                "sha": "218fe044c778e812fa69270c1e5cf82e0df0c71a",
-                "url": "https://api.github.com/repos/RhoInc/safety-delta-delta/commits/218fe044c778e812fa69270c1e5cf82e0df0c71a"
+                "sha": "9f21f140911eb1ee11f3ba7878ed06d1b292678f",
+                "url": "https://api.github.com/repos/RhoInc/safety-delta-delta/commits/9f21f140911eb1ee11f3ba7878ed06d1b292678f"
             },
             "protected": false,
             "protection": {
@@ -979,8 +995,8 @@
         {
             "name": "group-comparisons",
             "commit": {
-                "sha": "cd6e9d61d14f0b67ee3f51c79c3a44fee836ee6a",
-                "url": "https://api.github.com/repos/RhoInc/safety-histogram/commits/cd6e9d61d14f0b67ee3f51c79c3a44fee836ee6a"
+                "sha": "2c70cbc8e5190c1c1156d5090de9c5725c9906c4",
+                "url": "https://api.github.com/repos/RhoInc/safety-histogram/commits/2c70cbc8e5190c1c1156d5090de9c5725c9906c4"
             },
             "protected": false,
             "protection": {
@@ -1533,8 +1549,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "31bd5c6bf105742c153245cd64aa6438960e2d6e",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/31bd5c6bf105742c153245cd64aa6438960e2d6e"
+                "sha": "59e99174fd3cf078188a3181d579f87c160edf0b",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/59e99174fd3cf078188a3181d579f87c160edf0b"
             },
             "protected": true,
             "protection": {
