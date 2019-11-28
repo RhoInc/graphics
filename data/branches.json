@@ -547,8 +547,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "69c9e45540a02117ff21f2e3125f40870da0e833",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/69c9e45540a02117ff21f2e3125f40870da0e833"
+                "sha": "51430518fd01481865bdf23e0ea325a8c4e331e4",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/51430518fd01481865bdf23e0ea325a8c4e331e4"
             },
             "protected": false,
             "protection": {
@@ -909,26 +909,10 @@
     ],
     "safety-delta-delta": [
         {
-            "name": "dev-v1.0.0",
-            "commit": {
-                "sha": "9f21f140911eb1ee11f3ba7878ed06d1b292678f",
-                "url": "https://api.github.com/repos/RhoInc/safety-delta-delta/commits/9f21f140911eb1ee11f3ba7878ed06d1b292678f"
-            },
-            "protected": false,
-            "protection": {
-                "enabled": false,
-                "required_status_checks": {
-                    "enforcement_level": "off",
-                    "contexts": []
-                }
-            },
-            "protection_url": "https://api.github.com/repos/RhoInc/safety-delta-delta/branches/dev-v1.0.0/protection"
-        },
-        {
             "name": "master",
             "commit": {
-                "sha": "b8e9d957b63147f8d315dc36d4da7a03f5716acd",
-                "url": "https://api.github.com/repos/RhoInc/safety-delta-delta/commits/b8e9d957b63147f8d315dc36d4da7a03f5716acd"
+                "sha": "7f5d77ca3049bfb6208f888f6af9cab52840b6c8",
+                "url": "https://api.github.com/repos/RhoInc/safety-delta-delta/commits/7f5d77ca3049bfb6208f888f6af9cab52840b6c8"
             },
             "protected": false,
             "protection": {
@@ -957,6 +941,22 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/safety-explorer-suite/branches/master/protection"
+        },
+        {
+            "name": "v0.9.0-dev",
+            "commit": {
+                "sha": "b73321b92ba9f40d09ed8183a7185d9a6bd284bb",
+                "url": "https://api.github.com/repos/RhoInc/safety-explorer-suite/commits/b73321b92ba9f40d09ed8183a7185d9a6bd284bb"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/safety-explorer-suite/branches/v0.9.0-dev/protection"
         }
     ],
     "safety-histogram": [
@@ -1533,8 +1533,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "fcd0d2a50c2679cab971335327ab552e86b233ce",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/fcd0d2a50c2679cab971335327ab552e86b233ce"
+                "sha": "d8bd03a962d64f3663a6e032ca0f188573f76a3e",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/d8bd03a962d64f3663a6e032ca0f188573f76a3e"
             },
             "protected": true,
             "protection": {
@@ -1695,6 +1695,22 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/Webcharts/branches/dependabot/npm_and_yarn/lodash-4.17.14/protection"
+        },
+        {
+            "name": "dev-v1.11.7",
+            "commit": {
+                "sha": "08f8c741d4d346f2bd6273c73efd998033dfe249",
+                "url": "https://api.github.com/repos/RhoInc/Webcharts/commits/08f8c741d4d346f2bd6273c73efd998033dfe249"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/Webcharts/branches/dev-v1.11.7/protection"
         },
         {
             "name": "master",
