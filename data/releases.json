@@ -14413,6 +14413,7 @@
             "body": "Fixes Internet Explorer bug when there are spaces in a \"subsetter\" control.\n"
         }
     ],
+    "webcharts-template": [],
     "webcharts-tests": [
         {
             "url": "https://api.github.com/repos/RhoInc/webcharts-tests/releases/9439805",
