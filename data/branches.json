@@ -499,8 +499,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "81a0ef5c7458a62ee0242b431b45c7e73c2a6bff",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/81a0ef5c7458a62ee0242b431b45c7e73c2a6bff"
+                "sha": "a0711d2b5edb0f0b9174ca1e37f809157d5d3dc0",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/a0711d2b5edb0f0b9174ca1e37f809157d5d3dc0"
             },
             "protected": false,
             "protection": {
@@ -1485,8 +1485,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "62c29feca411889a6cb9a5efe70043932cc570d3",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/62c29feca411889a6cb9a5efe70043932cc570d3"
+                "sha": "4b2b9d04d791f1672ddadf8424d2c477d5d7a76e",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/4b2b9d04d791f1672ddadf8424d2c477d5d7a76e"
             },
             "protected": true,
             "protection": {
@@ -1633,6 +1633,22 @@
             "protection_url": "https://api.github.com/repos/RhoInc/Webcharts/branches/axis-behavior-unit-tests/protection"
         },
         {
+            "name": "clip-path",
+            "commit": {
+                "sha": "3437ef6f250a6adf73539507088ca1130c84dd74",
+                "url": "https://api.github.com/repos/RhoInc/Webcharts/commits/3437ef6f250a6adf73539507088ca1130c84dd74"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/Webcharts/branches/clip-path/protection"
+        },
+        {
             "name": "dependabot/npm_and_yarn/lodash-4.17.14",
             "commit": {
                 "sha": "ad76081646f5c0735b3add2702e6d0a099d06d25",
@@ -1665,6 +1681,22 @@
             "protection_url": "https://api.github.com/repos/RhoInc/Webcharts/branches/dev-v1.11.7/protection"
         },
         {
+            "name": "falsey-options",
+            "commit": {
+                "sha": "8ebb0ad1e84558ed6d9f1edb251ae6148a52039f",
+                "url": "https://api.github.com/repos/RhoInc/Webcharts/commits/8ebb0ad1e84558ed6d9f1edb251ae6148a52039f"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/Webcharts/branches/falsey-options/protection"
+        },
+        {
             "name": "legend-styling",
             "commit": {
                 "sha": "d7fcfed3e428daefcff2c00cbbc863c659fe80a4",
@@ -1679,6 +1711,22 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/Webcharts/branches/legend-styling/protection"
+        },
+        {
+            "name": "mark-data-checks",
+            "commit": {
+                "sha": "f7037ad794c1e87e32b608a80a83101fba169987",
+                "url": "https://api.github.com/repos/RhoInc/Webcharts/commits/f7037ad794c1e87e32b608a80a83101fba169987"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/Webcharts/branches/mark-data-checks/protection"
         },
         {
             "name": "master",
@@ -1701,8 +1749,8 @@
         {
             "name": "split-bar-order",
             "commit": {
-                "sha": "e6d3004f6c59a8beedbd0ecf3831cd213448e398",
-                "url": "https://api.github.com/repos/RhoInc/Webcharts/commits/e6d3004f6c59a8beedbd0ecf3831cd213448e398"
+                "sha": "142688e6ad8fe24f38bf0ba8f4c72aa3651c37a7",
+                "url": "https://api.github.com/repos/RhoInc/Webcharts/commits/142688e6ad8fe24f38bf0ba8f4c72aa3651c37a7"
             },
             "protected": false,
             "protection": {
