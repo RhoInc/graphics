@@ -499,8 +499,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "a0711d2b5edb0f0b9174ca1e37f809157d5d3dc0",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/a0711d2b5edb0f0b9174ca1e37f809157d5d3dc0"
+                "sha": "05dff13fb5c7bde1453befe38c7f4c88df0d3ad1",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/05dff13fb5c7bde1453befe38c7f4c88df0d3ad1"
             },
             "protected": false,
             "protection": {
@@ -1485,8 +1485,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "4b2b9d04d791f1672ddadf8424d2c477d5d7a76e",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/4b2b9d04d791f1672ddadf8424d2c477d5d7a76e"
+                "sha": "b0974f8c22bebc81d31ca0039b39eee885467127",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/b0974f8c22bebc81d31ca0039b39eee885467127"
             },
             "protected": true,
             "protection": {
@@ -1797,10 +1797,10 @@
     ],
     "webcharts-template": [
         {
-            "name": "master",
+            "name": "dev-v0.2",
             "commit": {
-                "sha": "58c2d2fa370b2a2c3392e81c0b9d64c00eb0e31a",
-                "url": "https://api.github.com/repos/RhoInc/webcharts-template/commits/58c2d2fa370b2a2c3392e81c0b9d64c00eb0e31a"
+                "sha": "8b668b661a111a764bafa28b802db72f551f02f2",
+                "url": "https://api.github.com/repos/RhoInc/webcharts-template/commits/8b668b661a111a764bafa28b802db72f551f02f2"
             },
             "protected": false,
             "protection": {
@@ -1810,7 +1810,39 @@
                     "contexts": []
                 }
             },
+            "protection_url": "https://api.github.com/repos/RhoInc/webcharts-template/branches/dev-v0.2/protection"
+        },
+        {
+            "name": "master",
+            "commit": {
+                "sha": "1c31d1c2def6eaa56831fbde5ccc47827bc68434",
+                "url": "https://api.github.com/repos/RhoInc/webcharts-template/commits/1c31d1c2def6eaa56831fbde5ccc47827bc68434"
+            },
+            "protected": true,
+            "protection": {
+                "enabled": true,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
             "protection_url": "https://api.github.com/repos/RhoInc/webcharts-template/branches/master/protection"
+        },
+        {
+            "name": "multiple-src",
+            "commit": {
+                "sha": "aebf32fc3aba737be0c473dfcc723222d837a875",
+                "url": "https://api.github.com/repos/RhoInc/webcharts-template/commits/aebf32fc3aba737be0c473dfcc723222d837a875"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/webcharts-template/branches/multiple-src/protection"
         }
     ],
     "webcharts-tests": [
