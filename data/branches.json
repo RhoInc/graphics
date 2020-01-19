@@ -499,8 +499,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "a5b852bf861f58b2d8f9f5c20ab4f9ce750cfc9e",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/a5b852bf861f58b2d8f9f5c20ab4f9ce750cfc9e"
+                "sha": "538554293a1b8bf64e452b56ff2cf2eaa0a72f25",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/538554293a1b8bf64e452b56ff2cf2eaa0a72f25"
             },
             "protected": false,
             "protection": {
@@ -1449,6 +1449,22 @@
             "protection_url": "https://api.github.com/repos/RhoInc/study-overview/branches/col-wise/protection"
         },
         {
+            "name": "dev-v1.0.0",
+            "commit": {
+                "sha": "f85da51511ee89801c7ab047727f6d50592285eb",
+                "url": "https://api.github.com/repos/RhoInc/study-overview/commits/f85da51511ee89801c7ab047727f6d50592285eb"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/study-overview/branches/dev-v1.0.0/protection"
+        },
+        {
             "name": "master",
             "commit": {
                 "sha": "f85da51511ee89801c7ab047727f6d50592285eb",
@@ -1469,8 +1485,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "e38e3e30d36ce53c7df394e736399b281372ea16",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/e38e3e30d36ce53c7df394e736399b281372ea16"
+                "sha": "5de8543a096771f8bc92d322db6f20f05f0f3a43",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/5de8543a096771f8bc92d322db6f20f05f0f3a43"
             },
             "protected": true,
             "protection": {
@@ -1797,8 +1813,8 @@
         {
             "name": "total-sortal-eclipse",
             "commit": {
-                "sha": "bc761a6f0c2e2a854caca73c3776bafb6055d4ea",
-                "url": "https://api.github.com/repos/RhoInc/Webcharts/commits/bc761a6f0c2e2a854caca73c3776bafb6055d4ea"
+                "sha": "4ef80082b9bcb977bd3c2b6fad286ef0e6cfb6ca",
+                "url": "https://api.github.com/repos/RhoInc/Webcharts/commits/4ef80082b9bcb977bd3c2b6fad286ef0e6cfb6ca"
             },
             "protected": false,
             "protection": {
