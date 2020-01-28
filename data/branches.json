@@ -467,8 +467,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "d4b2dff5b45221be1b84c94a30aa853c19e4c183",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/d4b2dff5b45221be1b84c94a30aa853c19e4c183"
+                "sha": "e703cf42049cf333c910586c0e0bdf5644fd5188",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/e703cf42049cf333c910586c0e0bdf5644fd5188"
             },
             "protected": false,
             "protection": {
@@ -521,8 +521,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "19c335cfddcdd0a43dcd7f36c88066ee1b532132",
-                "url": "https://api.github.com/repos/RhoInc/nested-data-explorer/commits/19c335cfddcdd0a43dcd7f36c88066ee1b532132"
+                "sha": "0f270c93305bbb7bdf3c8cda4f0c540d9f5550a6",
+                "url": "https://api.github.com/repos/RhoInc/nested-data-explorer/commits/0f270c93305bbb7bdf3c8cda4f0c540d9f5550a6"
             },
             "protected": false,
             "protection": {
@@ -1403,10 +1403,10 @@
     ],
     "study-overview": [
         {
-            "name": "col-wise",
+            "name": "dev-v0.6.0",
             "commit": {
-                "sha": "f414324433b6fe208b9c9f45a312760faa96a0ec",
-                "url": "https://api.github.com/repos/RhoInc/study-overview/commits/f414324433b6fe208b9c9f45a312760faa96a0ec"
+                "sha": "e078b2c7f1d4bc06ac96a0f2b620a2751abd4cb9",
+                "url": "https://api.github.com/repos/RhoInc/study-overview/commits/e078b2c7f1d4bc06ac96a0f2b620a2751abd4cb9"
             },
             "protected": false,
             "protection": {
@@ -1416,45 +1416,13 @@
                     "contexts": []
                 }
             },
-            "protection_url": "https://api.github.com/repos/RhoInc/study-overview/branches/col-wise/protection"
-        },
-        {
-            "name": "data-structure",
-            "commit": {
-                "sha": "a5ec21a9770f0a2a5ff5a06b49354b57482514b2",
-                "url": "https://api.github.com/repos/RhoInc/study-overview/commits/a5ec21a9770f0a2a5ff5a06b49354b57482514b2"
-            },
-            "protected": false,
-            "protection": {
-                "enabled": false,
-                "required_status_checks": {
-                    "enforcement_level": "off",
-                    "contexts": []
-                }
-            },
-            "protection_url": "https://api.github.com/repos/RhoInc/study-overview/branches/data-structure/protection"
-        },
-        {
-            "name": "dev-v1.0.0",
-            "commit": {
-                "sha": "f85da51511ee89801c7ab047727f6d50592285eb",
-                "url": "https://api.github.com/repos/RhoInc/study-overview/commits/f85da51511ee89801c7ab047727f6d50592285eb"
-            },
-            "protected": false,
-            "protection": {
-                "enabled": false,
-                "required_status_checks": {
-                    "enforcement_level": "off",
-                    "contexts": []
-                }
-            },
-            "protection_url": "https://api.github.com/repos/RhoInc/study-overview/branches/dev-v1.0.0/protection"
+            "protection_url": "https://api.github.com/repos/RhoInc/study-overview/branches/dev-v0.6.0/protection"
         },
         {
             "name": "master",
             "commit": {
-                "sha": "e2ae7d8c3fd82ed6759c8453d8400d5de9dcbc29",
-                "url": "https://api.github.com/repos/RhoInc/study-overview/commits/e2ae7d8c3fd82ed6759c8453d8400d5de9dcbc29"
+                "sha": "fc7e60f9dd78e00aae4e7159a7a6a690924ae62c",
+                "url": "https://api.github.com/repos/RhoInc/study-overview/commits/fc7e60f9dd78e00aae4e7159a7a6a690924ae62c"
             },
             "protected": false,
             "protection": {
@@ -1465,30 +1433,14 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/study-overview/branches/master/protection"
-        },
-        {
-            "name": "single-dataset",
-            "commit": {
-                "sha": "417ded814b1052960f80f6f973873768bd807f18",
-                "url": "https://api.github.com/repos/RhoInc/study-overview/commits/417ded814b1052960f80f6f973873768bd807f18"
-            },
-            "protected": false,
-            "protection": {
-                "enabled": false,
-                "required_status_checks": {
-                    "enforcement_level": "off",
-                    "contexts": []
-                }
-            },
-            "protection_url": "https://api.github.com/repos/RhoInc/study-overview/branches/single-dataset/protection"
         }
     ],
     "viz-library": [
         {
             "name": "master",
             "commit": {
-                "sha": "c5ea4b2ef0ad9db556a91c92c1849a9ac9f9edd5",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/c5ea4b2ef0ad9db556a91c92c1849a9ac9f9edd5"
+                "sha": "49a66813ff4564d7648942f07776bc1650ee0157",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/49a66813ff4564d7648942f07776bc1650ee0157"
             },
             "protected": true,
             "protection": {
