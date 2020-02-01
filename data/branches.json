@@ -467,8 +467,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "87aa71823998ff425a5d40bb3bf2b1b563924f13",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/87aa71823998ff425a5d40bb3bf2b1b563924f13"
+                "sha": "2876c29f48d455532506bac61b0114234e61d4bf",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/2876c29f48d455532506bac61b0114234e61d4bf"
             },
             "protected": false,
             "protection": {
@@ -521,8 +521,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "d9158d8371ae8aa92ace315a69af0f9735b2c61d",
-                "url": "https://api.github.com/repos/RhoInc/nested-data-explorer/commits/d9158d8371ae8aa92ace315a69af0f9735b2c61d"
+                "sha": "b53bef7d1f43b01ea06ca5df92726db5db326345",
+                "url": "https://api.github.com/repos/RhoInc/nested-data-explorer/commits/b53bef7d1f43b01ea06ca5df92726db5db326345"
             },
             "protected": false,
             "protection": {
@@ -933,10 +933,26 @@
     ],
     "safety-outlier-explorer": [
         {
+            "name": "dev-v2.6.1",
+            "commit": {
+                "sha": "25c0afa33c11e30fab856e27296c8ae4e9223a3f",
+                "url": "https://api.github.com/repos/RhoInc/safety-outlier-explorer/commits/25c0afa33c11e30fab856e27296c8ae4e9223a3f"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/safety-outlier-explorer/branches/dev-v2.6.1/protection"
+        },
+        {
             "name": "master",
             "commit": {
-                "sha": "36998aeec07785a6722f723ed2264835dd9eb224",
-                "url": "https://api.github.com/repos/RhoInc/safety-outlier-explorer/commits/36998aeec07785a6722f723ed2264835dd9eb224"
+                "sha": "161afa32722dd7152f598cb5efd97b708ff2eb1c",
+                "url": "https://api.github.com/repos/RhoInc/safety-outlier-explorer/commits/161afa32722dd7152f598cb5efd97b708ff2eb1c"
             },
             "protected": true,
             "protection": {
@@ -1455,8 +1471,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "dcd27d70868cba78948439e27c3c047659288f56",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/dcd27d70868cba78948439e27c3c047659288f56"
+                "sha": "57d8878db2432d984151d1ca340b579422ecab8d",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/57d8878db2432d984151d1ca340b579422ecab8d"
             },
             "protected": true,
             "protection": {
