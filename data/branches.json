@@ -483,8 +483,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "166e5d0290033c94f43af0e42815bcbe925e3413",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/166e5d0290033c94f43af0e42815bcbe925e3413"
+                "sha": "9d0f8877c08f9094d64ce1d92837332bee42c66e",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/9d0f8877c08f9094d64ce1d92837332bee42c66e"
             },
             "protected": false,
             "protection": {
@@ -1487,8 +1487,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "e86cfaeb58d86dd210df14061e20e1dfde1abcd7",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/e86cfaeb58d86dd210df14061e20e1dfde1abcd7"
+                "sha": "757138ed7db2248bc627e5a2ed198948988b7581",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/757138ed7db2248bc627e5a2ed198948988b7581"
             },
             "protected": true,
             "protection": {
@@ -1601,10 +1601,26 @@
             "protection_url": "https://api.github.com/repos/RhoInc/web-codebook/branches/master/protection"
         },
         {
+            "name": "performance",
+            "commit": {
+                "sha": "802444790353a3b00aa83f6931c1696acfd75d7a",
+                "url": "https://api.github.com/repos/RhoInc/web-codebook/commits/802444790353a3b00aa83f6931c1696acfd75d7a"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/web-codebook/branches/performance/protection"
+        },
+        {
             "name": "v1.7.0-dev",
             "commit": {
-                "sha": "03d6ef63f39553da175ff4457afa09736f5f0611",
-                "url": "https://api.github.com/repos/RhoInc/web-codebook/commits/03d6ef63f39553da175ff4457afa09736f5f0611"
+                "sha": "9d239a81ad12501f7e597824986b1c8748638133",
+                "url": "https://api.github.com/repos/RhoInc/web-codebook/commits/9d239a81ad12501f7e597824986b1c8748638133"
             },
             "protected": false,
             "protection": {
