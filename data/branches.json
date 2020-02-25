@@ -365,6 +365,22 @@
             "protection_url": "https://api.github.com/repos/RhoInc/datadigest/branches/Readme-update/protection"
         },
         {
+            "name": "add-pkgdown",
+            "commit": {
+                "sha": "6e545210765473950e63aba4bf6602d08003f03e",
+                "url": "https://api.github.com/repos/RhoInc/datadigest/commits/6e545210765473950e63aba4bf6602d08003f03e"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/datadigest/branches/add-pkgdown/protection"
+        },
+        {
             "name": "dev-1.1.0",
             "commit": {
                 "sha": "fe1d5e6f55a126564a45e657b07387ed7c886027",
@@ -483,8 +499,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "3be36bae28f80aedff2fc2dddb478b560cae7748",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/3be36bae28f80aedff2fc2dddb478b560cae7748"
+                "sha": "aae2c29a8cb0b6e861c3f4c1d5837ccbe1e84e13",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/aae2c29a8cb0b6e861c3f4c1d5837ccbe1e84e13"
             },
             "protected": false,
             "protection": {
@@ -534,6 +550,22 @@
         }
     ],
     "nested-data-explorer": [
+        {
+            "name": "dev-v0.4.3",
+            "commit": {
+                "sha": "29705775981240969869a96c60d2d9fbf4104883",
+                "url": "https://api.github.com/repos/RhoInc/nested-data-explorer/commits/29705775981240969869a96c60d2d9fbf4104883"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/nested-data-explorer/branches/dev-v0.4.3/protection"
+        },
         {
             "name": "master",
             "commit": {
@@ -1519,8 +1551,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "fac04aaf4fa6401747d1bf4846584f259c997f14",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/fac04aaf4fa6401747d1bf4846584f259c997f14"
+                "sha": "f16df84cf35d8322d2402fba96a6294acbd7d28f",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/f16df84cf35d8322d2402fba96a6294acbd7d28f"
             },
             "protected": true,
             "protection": {
