@@ -9069,6 +9069,7 @@
             "body": "This is the initial release of the Test Results Outlier Explorer. This interactive tool allows users to compare lab and vital sign data over time to search for values that fall outside of expected ranges.\n"
         }
     ],
+    "safety-qc-dashboard": [],
     "safety-results-over-time": [
         {
             "url": "https://api.github.com/repos/RhoInc/safety-results-over-time/releases/17399409",

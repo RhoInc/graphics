@@ -499,8 +499,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "453928883a0783017a0b0dcd433f42025f51c1bb",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/453928883a0783017a0b0dcd433f42025f51c1bb"
+                "sha": "738404aa87e6e9361d2f5bc981ed2557e9cd0125",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/738404aa87e6e9361d2f5bc981ed2557e9cd0125"
             },
             "protected": false,
             "protection": {
@@ -1061,6 +1061,24 @@
             "protection_url": "https://api.github.com/repos/RhoInc/safety-outlier-explorer/branches/unit-tests/protection"
         }
     ],
+    "safety-qc-dashboard": [
+        {
+            "name": "master",
+            "commit": {
+                "sha": "718d58ff67bb30cbcd1a8454f5128c303a091bea",
+                "url": "https://api.github.com/repos/RhoInc/safety-qc-dashboard/commits/718d58ff67bb30cbcd1a8454f5128c303a091bea"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/safety-qc-dashboard/branches/master/protection"
+        }
+    ],
     "safety-results-over-time": [
         {
             "name": "master",
@@ -1551,8 +1569,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "b41568279bee798a036c68cce7cb299b3757c3f1",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/b41568279bee798a036c68cce7cb299b3757c3f1"
+                "sha": "db62077444dfa9becdda25f458824ce1fbdce47d",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/db62077444dfa9becdda25f458824ce1fbdce47d"
             },
             "protected": true,
             "protection": {
