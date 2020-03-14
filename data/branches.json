@@ -277,6 +277,22 @@
     ],
     "dashboard-charts": [
         {
+            "name": "dependabot/npm_and_yarn/acorn-6.4.1",
+            "commit": {
+                "sha": "7bc15103bb41483672ffc1dabf175cf82430935a",
+                "url": "https://api.github.com/repos/RhoInc/dashboard-charts/commits/7bc15103bb41483672ffc1dabf175cf82430935a"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/dashboard-charts/branches/dependabot/npm_and_yarn/acorn-6.4.1/protection"
+        },
+        {
             "name": "master",
             "commit": {
                 "sha": "27dd1150a0ba656da96f3cf2a7a3455c58ca522b",
@@ -294,6 +310,22 @@
         }
     ],
     "dashboard-framework": [
+        {
+            "name": "dependabot/npm_and_yarn/acorn-6.4.1",
+            "commit": {
+                "sha": "472d36c66f8c3e4a94f2585df5e665459f806137",
+                "url": "https://api.github.com/repos/RhoInc/dashboard-framework/commits/472d36c66f8c3e4a94f2585df5e665459f806137"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/dashboard-framework/branches/dependabot/npm_and_yarn/acorn-6.4.1/protection"
+        },
         {
             "name": "master",
             "commit": {
@@ -499,8 +531,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "392403d52610d75a2d68013600a5052a419d7945",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/392403d52610d75a2d68013600a5052a419d7945"
+                "sha": "31cf4e516cb6754486e3a1d641ea9bb2ee3fec6d",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/31cf4e516cb6754486e3a1d641ea9bb2ee3fec6d"
             },
             "protected": false,
             "protection": {
@@ -1029,6 +1061,22 @@
     ],
     "safety-outlier-explorer": [
         {
+            "name": "dependabot/npm_and_yarn/acorn-6.4.1",
+            "commit": {
+                "sha": "0b1ef620b19e8b032a087079e91ec516e5c03096",
+                "url": "https://api.github.com/repos/RhoInc/safety-outlier-explorer/commits/0b1ef620b19e8b032a087079e91ec516e5c03096"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/safety-outlier-explorer/branches/dependabot/npm_and_yarn/acorn-6.4.1/protection"
+        },
+        {
             "name": "dev-v2.6.1",
             "commit": {
                 "sha": "25c0afa33c11e30fab856e27296c8ae4e9223a3f",
@@ -1096,6 +1144,22 @@
         }
     ],
     "safety-results-over-time": [
+        {
+            "name": "dependabot/npm_and_yarn/acorn-6.4.1",
+            "commit": {
+                "sha": "9feae97266707569d422d394a1b153a9844244d4",
+                "url": "https://api.github.com/repos/RhoInc/safety-results-over-time/commits/9feae97266707569d422d394a1b153a9844244d4"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/safety-results-over-time/branches/dependabot/npm_and_yarn/acorn-6.4.1/protection"
+        },
         {
             "name": "master",
             "commit": {
@@ -1585,8 +1649,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "0adfda737f5e37c8c67c67b018451041eaf6d75d",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/0adfda737f5e37c8c67c67b018451041eaf6d75d"
+                "sha": "c6523e22b26a9cd82010ed0af4a6ea155c180d21",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/c6523e22b26a9cd82010ed0af4a6ea155c180d21"
             },
             "protected": true,
             "protection": {
