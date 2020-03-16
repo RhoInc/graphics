@@ -343,6 +343,22 @@
             "protection_url": "https://api.github.com/repos/RhoInc/dashboard-framework/branches/dependabot/npm_and_yarn/acorn-6.4.1/protection"
         },
         {
+            "name": "dependabot/npm_and_yarn/minimist-1.2.5",
+            "commit": {
+                "sha": "2d375f6270d00a4b91a39ee6898ed96e11aebbb8",
+                "url": "https://api.github.com/repos/RhoInc/dashboard-framework/commits/2d375f6270d00a4b91a39ee6898ed96e11aebbb8"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/dashboard-framework/branches/dependabot/npm_and_yarn/minimist-1.2.5/protection"
+        },
+        {
             "name": "master",
             "commit": {
                 "sha": "00dc8ffa073e2ed11a69dd62a5e1b247f5167c05",
@@ -378,6 +394,22 @@
         }
     ],
     "data-library": [
+        {
+            "name": "dependabot/npm_and_yarn/minimist-1.2.5",
+            "commit": {
+                "sha": "32a2a80d8c8f3983ab3a9364e2ab1305be994817",
+                "url": "https://api.github.com/repos/RhoInc/data-library/commits/32a2a80d8c8f3983ab3a9364e2ab1305be994817"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/data-library/branches/dependabot/npm_and_yarn/minimist-1.2.5/protection"
+        },
         {
             "name": "master",
             "commit": {
@@ -547,8 +579,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "1a43a9ab664524559e4a9a88884b8136f6059f78",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/1a43a9ab664524559e4a9a88884b8136f6059f78"
+                "sha": "d44c7ccf1272991ba66c014ab338ec2e692b7087",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/d44c7ccf1272991ba66c014ab338ec2e692b7087"
             },
             "protected": false,
             "protection": {
@@ -849,6 +881,22 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/publication-library/branches/dependabot/npm_and_yarn/acorn-6.4.1/protection"
+        },
+        {
+            "name": "dependabot/npm_and_yarn/minimist-1.2.5",
+            "commit": {
+                "sha": "2c65bf72d9cab269cb9aa63bc5c8ffe6a33f2ec0",
+                "url": "https://api.github.com/repos/RhoInc/publication-library/commits/2c65bf72d9cab269cb9aa63bc5c8ffe6a33f2ec0"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/publication-library/branches/dependabot/npm_and_yarn/minimist-1.2.5/protection"
         },
         {
             "name": "master",
@@ -1745,8 +1793,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "7c27f85d072e5b149686717a5b5836dc014b79a6",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/7c27f85d072e5b149686717a5b5836dc014b79a6"
+                "sha": "ea84bc0652a09a2684b545e7b5346fef65d573f4",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/ea84bc0652a09a2684b545e7b5346fef65d573f4"
             },
             "protected": true,
             "protection": {
