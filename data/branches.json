@@ -579,8 +579,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "d44c7ccf1272991ba66c014ab338ec2e692b7087",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/d44c7ccf1272991ba66c014ab338ec2e692b7087"
+                "sha": "270d8cd3913129b667686dae9ee7e9c760dc5d10",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/270d8cd3913129b667686dae9ee7e9c760dc5d10"
             },
             "protected": false,
             "protection": {
@@ -1757,6 +1757,22 @@
     ],
     "study-overview": [
         {
+            "name": "dependabot/npm_and_yarn/minimist-1.2.5",
+            "commit": {
+                "sha": "93f8ed17d780df29d1b1df9d45e309b6b9838fad",
+                "url": "https://api.github.com/repos/RhoInc/study-overview/commits/93f8ed17d780df29d1b1df9d45e309b6b9838fad"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/study-overview/branches/dependabot/npm_and_yarn/minimist-1.2.5/protection"
+        },
+        {
             "name": "dev-v0.6.0",
             "commit": {
                 "sha": "e078b2c7f1d4bc06ac96a0f2b620a2751abd4cb9",
@@ -1793,8 +1809,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "ea84bc0652a09a2684b545e7b5346fef65d573f4",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/ea84bc0652a09a2684b545e7b5346fef65d573f4"
+                "sha": "98075a8db7f796ce0ad849e8708a7e1b6f672c0e",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/98075a8db7f796ce0ad849e8708a7e1b6f672c0e"
             },
             "protected": true,
             "protection": {
@@ -1891,6 +1907,22 @@
     ],
     "web-codebook": [
         {
+            "name": "dev-v1.8.0",
+            "commit": {
+                "sha": "2d747dd21145fc9e084c56bd12b5795babc74037",
+                "url": "https://api.github.com/repos/RhoInc/web-codebook/commits/2d747dd21145fc9e084c56bd12b5795babc74037"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/web-codebook/branches/dev-v1.8.0/protection"
+        },
+        {
             "name": "master",
             "commit": {
                 "sha": "7d651d027041f3519ab7c3ea602a199c2f975424",
@@ -1905,38 +1937,6 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/web-codebook/branches/master/protection"
-        },
-        {
-            "name": "performance",
-            "commit": {
-                "sha": "802444790353a3b00aa83f6931c1696acfd75d7a",
-                "url": "https://api.github.com/repos/RhoInc/web-codebook/commits/802444790353a3b00aa83f6931c1696acfd75d7a"
-            },
-            "protected": false,
-            "protection": {
-                "enabled": false,
-                "required_status_checks": {
-                    "enforcement_level": "off",
-                    "contexts": []
-                }
-            },
-            "protection_url": "https://api.github.com/repos/RhoInc/web-codebook/branches/performance/protection"
-        },
-        {
-            "name": "v1.7.0-dev",
-            "commit": {
-                "sha": "9d239a81ad12501f7e597824986b1c8748638133",
-                "url": "https://api.github.com/repos/RhoInc/web-codebook/commits/9d239a81ad12501f7e597824986b1c8748638133"
-            },
-            "protected": false,
-            "protection": {
-                "enabled": false,
-                "required_status_checks": {
-                    "enforcement_level": "off",
-                    "contexts": []
-                }
-            },
-            "protection_url": "https://api.github.com/repos/RhoInc/web-codebook/branches/v1.7.0-dev/protection"
         }
     ],
     "Webcharts": [
