@@ -579,8 +579,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "270d8cd3913129b667686dae9ee7e9c760dc5d10",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/270d8cd3913129b667686dae9ee7e9c760dc5d10"
+                "sha": "56d012a6cb7446013b0569ac667965b81157af41",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/56d012a6cb7446013b0569ac667965b81157af41"
             },
             "protected": false,
             "protection": {
@@ -1049,6 +1049,22 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/repo-dashboard/branches/dependabot/npm_and_yarn/acorn-7.1.1/protection"
+        },
+        {
+            "name": "dependabot/npm_and_yarn/minimist-1.2.5",
+            "commit": {
+                "sha": "d050c6d9b15df4872ffe7bb615ea92e28cc71d2d",
+                "url": "https://api.github.com/repos/RhoInc/repo-dashboard/commits/d050c6d9b15df4872ffe7bb615ea92e28cc71d2d"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/repo-dashboard/branches/dependabot/npm_and_yarn/minimist-1.2.5/protection"
         },
         {
             "name": "master",
@@ -1809,8 +1825,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "98075a8db7f796ce0ad849e8708a7e1b6f672c0e",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/98075a8db7f796ce0ad849e8708a7e1b6f672c0e"
+                "sha": "1497b16a9467c2a2eb7978c9697174fe821c4410",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/1497b16a9467c2a2eb7978c9697174fe821c4410"
             },
             "protected": true,
             "protection": {
@@ -1937,6 +1953,22 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/web-codebook/branches/master/protection"
+        },
+        {
+            "name": "performance",
+            "commit": {
+                "sha": "ad56f6c73302fd0122809b172d24f478d3ad500f",
+                "url": "https://api.github.com/repos/RhoInc/web-codebook/commits/ad56f6c73302fd0122809b172d24f478d3ad500f"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/web-codebook/branches/performance/protection"
         }
     ],
     "Webcharts": [
