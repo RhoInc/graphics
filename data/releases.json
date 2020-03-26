@@ -10400,6 +10400,7 @@
             "body": "This is the initial release of the Shift Plot. This interactive tool features a dot plot that allows users to compare lab and vital sign values between two time points.\n"
         }
     ],
+    "safety-waffle": [],
     "safetyexploreR": [
         {
             "url": "https://api.github.com/repos/RhoInc/safetyexploreR/releases/21200849",
