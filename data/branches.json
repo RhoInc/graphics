@@ -223,6 +223,24 @@
             "protection_url": "https://api.github.com/repos/RhoInc/clinical-timelines/branches/master/protection"
         }
     ],
+    "covid-heatmap": [
+        {
+            "name": "master",
+            "commit": {
+                "sha": "7d1ba5ce0042e611ac411c5b292df54173b1e639",
+                "url": "https://api.github.com/repos/RhoInc/covid-heatmap/commits/7d1ba5ce0042e611ac411c5b292df54173b1e639"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/covid-heatmap/branches/master/protection"
+        }
+    ],
     "CRANsearcher": [
         {
             "name": "dev_v1.1.0",
@@ -579,8 +597,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "8a6c6ad96b8ad6f12c54da684697d4fbabf9247c",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/8a6c6ad96b8ad6f12c54da684697d4fbabf9247c"
+                "sha": "21e2f05755cb59ffaa44e76387aafb35253b70ea",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/21e2f05755cb59ffaa44e76387aafb35253b70ea"
             },
             "protected": false,
             "protection": {
@@ -1371,24 +1389,6 @@
             "protection_url": "https://api.github.com/repos/RhoInc/safety-shift-plot/branches/master/protection"
         }
     ],
-    "safety-waffle": [
-        {
-            "name": "master",
-            "commit": {
-                "sha": "259ef690cfde5ff77a547659c395ceb5e5357537",
-                "url": "https://api.github.com/repos/RhoInc/safety-waffle/commits/259ef690cfde5ff77a547659c395ceb5e5357537"
-            },
-            "protected": false,
-            "protection": {
-                "enabled": false,
-                "required_status_checks": {
-                    "enforcement_level": "off",
-                    "contexts": []
-                }
-            },
-            "protection_url": "https://api.github.com/repos/RhoInc/safety-waffle/branches/master/protection"
-        }
-    ],
     "safetyexploreR": [
         {
             "name": "branch-test",
@@ -1811,8 +1811,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "b29558a1def9e790a3f1664f0e0e92cb7ce99e2f",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/b29558a1def9e790a3f1664f0e0e92cb7ce99e2f"
+                "sha": "a260d43730cd13ca0936288dd192729df9c54dde",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/a260d43730cd13ca0936288dd192729df9c54dde"
             },
             "protected": true,
             "protection": {

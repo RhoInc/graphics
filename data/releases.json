@@ -2783,6 +2783,7 @@
             "body": "The first release of the clinical-timelines library presents clinical trial timelines vertically by participant and horizontally by study day.  The timelines visualize single- and multi-day events, offset those events that overlap, and allow the user to drill down to individual participants.  The participant-level view breaks events down by event type in small multiples and also presents a listing of the participant's data."
         }
     ],
+    "covid-heatmap": [],
     "CRANsearcher": [
         {
             "url": "https://api.github.com/repos/RhoInc/CRANsearcher/releases/7966054",
@@ -10400,7 +10401,6 @@
             "body": "This is the initial release of the Shift Plot. This interactive tool features a dot plot that allows users to compare lab and vital sign values between two time points.\n"
         }
     ],
-    "safety-waffle": [],
     "safetyexploreR": [
         {
             "url": "https://api.github.com/repos/RhoInc/safetyexploreR/releases/21200849",
