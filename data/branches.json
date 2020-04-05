@@ -597,8 +597,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "d80eb091c6d1fdde553764b2e35d97cc528e74f8",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/d80eb091c6d1fdde553764b2e35d97cc528e74f8"
+                "sha": "63f71f60860d8d0341ae53eba8504ebb7b9848ec",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/63f71f60860d8d0341ae53eba8504ebb7b9848ec"
             },
             "protected": false,
             "protection": {
@@ -970,6 +970,22 @@
         }
     ],
     "r-library": [
+        {
+            "name": "dependabot/npm_and_yarn/acorn-5.7.4",
+            "commit": {
+                "sha": "bff3010464dbd17d81d185895bfb4721d1c74210",
+                "url": "https://api.github.com/repos/RhoInc/r-library/commits/bff3010464dbd17d81d185895bfb4721d1c74210"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/r-library/branches/dependabot/npm_and_yarn/acorn-5.7.4/protection"
+        },
         {
             "name": "dependabot/npm_and_yarn/lodash-4.17.14",
             "commit": {
@@ -1829,8 +1845,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "64080da3ef78cf0bcc72ed52f58d3e2498c51ca2",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/64080da3ef78cf0bcc72ed52f58d3e2498c51ca2"
+                "sha": "6b2ae0bb8b14394cc28ec796cdd8ea9b10974339",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/6b2ae0bb8b14394cc28ec796cdd8ea9b10974339"
             },
             "protected": true,
             "protection": {
