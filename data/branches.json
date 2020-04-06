@@ -597,8 +597,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "63f71f60860d8d0341ae53eba8504ebb7b9848ec",
-                "url": "https://api.github.com/repos/RhoInc/graphics/commits/63f71f60860d8d0341ae53eba8504ebb7b9848ec"
+                "sha": "33c705ed6b38dbb36f9721c9bfb7e3052fbe135a",
+                "url": "https://api.github.com/repos/RhoInc/graphics/commits/33c705ed6b38dbb36f9721c9bfb7e3052fbe135a"
             },
             "protected": false,
             "protection": {
@@ -1845,8 +1845,8 @@
         {
             "name": "master",
             "commit": {
-                "sha": "6b2ae0bb8b14394cc28ec796cdd8ea9b10974339",
-                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/6b2ae0bb8b14394cc28ec796cdd8ea9b10974339"
+                "sha": "d3c0f42a29825cc03f53ea2922fc19c36f6ee276",
+                "url": "https://api.github.com/repos/RhoInc/viz-library/commits/d3c0f42a29825cc03f53ea2922fc19c36f6ee276"
             },
             "protected": true,
             "protection": {
@@ -2039,6 +2039,22 @@
                 }
             },
             "protection_url": "https://api.github.com/repos/RhoInc/Webcharts/branches/clip-path/protection"
+        },
+        {
+            "name": "dependabot/npm_and_yarn/acorn-5.7.4",
+            "commit": {
+                "sha": "d30f469eeb2d85811372478657d35765219dd30f",
+                "url": "https://api.github.com/repos/RhoInc/Webcharts/commits/d30f469eeb2d85811372478657d35765219dd30f"
+            },
+            "protected": false,
+            "protection": {
+                "enabled": false,
+                "required_status_checks": {
+                    "enforcement_level": "off",
+                    "contexts": []
+                }
+            },
+            "protection_url": "https://api.github.com/repos/RhoInc/Webcharts/branches/dependabot/npm_and_yarn/acorn-5.7.4/protection"
         },
         {
             "name": "dependabot/npm_and_yarn/lodash-4.17.14",
