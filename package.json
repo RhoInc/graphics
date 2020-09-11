@@ -42,7 +42,7 @@
     "@babel/core": "^7.4.3",
     "@babel/preset-env": "^7.4.3",
     "base-64": "^0.1.0",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.1",
     "prettier": "^1.16.4",
     "promise-polyfill": "^8.1.0",
     "read": "^1.0.7",
